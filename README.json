@@ -1,1600 +1,571 @@
 {
   "items": [
     {
-      "description": "If you liked this repository or find it useful, please give it a star. Thanks!",
-      "items": [],
-      "title": "Give a Star! ⭐️"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AutoMapper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-02T13:51:10Z",
-            "owner": "LuckyPennySoftware",
-            "repo": "AutoMapper",
-            "stars": 10193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Maspter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-10T09:42:34Z",
-            "owner": "MapsterMapper",
-            "repo": "Mapster",
-            "stars": 5162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mapperly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T18:49:13Z",
-            "owner": "riok",
-            "repo": "mapperly",
-            "stars": 4146
-          }
-        }
-      ],
-      "title": "Object Mapper"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HangFire",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-20T12:19:41Z",
-            "owner": "HangfireIO",
-            "repo": "Hangfire",
-            "stars": 10117
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quartz.NET",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-15T22:03:49Z",
-            "owner": "quartznet",
-            "repo": "quartznet",
-            "stars": 7067
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coravel",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-07-20T03:41:07Z",
-            "owner": "jamesmh",
-            "repo": "coravel",
-            "stars": 4284
-          }
-        }
-      ],
-      "title": "Task Scheduler / Background Job"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Json Serializer",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "Newtonsoft.Json (Json.NET)",
+              "title": "AutoMapper",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 505380,
                 "language": "C#",
-                "last_commit": "2026-08-13T14:42:55Z",
-                "owner": "JamesNK",
-                "repo": "Newtonsoft.Json",
-                "stars": 11310
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Binary Serializer",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MessagePack",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-14T07:14:51Z",
-                "owner": "MessagePack-CSharp",
-                "repo": "MessagePack-CSharp",
-                "stars": 6772
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Protobuf-Net",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T22:03:04Z",
-                "owner": "protobuf-net",
-                "repo": "protobuf-net",
-                "stars": 4967
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Serialization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Database",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "LiteDB",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-11T06:00:45Z",
-                "owner": "litedb-org",
-                "repo": "LiteDB",
-                "stars": 9458
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "RavenDB.Client",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T12:31:17Z",
-                "owner": "ravendb",
-                "repo": "ravendb",
-                "stars": 3989
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Database Connector",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Npgsql",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T21:56:16Z",
-                "owner": "npgsql",
-                "repo": "npgsql",
-                "stars": 3719
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "MongoDB.Driver",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T22:48:47Z",
-                "owner": "mongodb",
-                "repo": "mongo-csharp-driver",
-                "stars": 3240
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Database Migrations",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "FluentMigrator",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-12T22:20:08Z",
-                "owner": "fluentmigrator",
-                "repo": "fluentmigrator",
-                "stars": 3508
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Database, Database Drivers, and Migration"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "ORM",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Entity Framework Core",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T23:50:27Z",
-                "owner": "dotnet",
-                "repo": "efcore",
-                "stars": 14769
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "linq2db",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-19T02:22:16Z",
-                "owner": "linq2db",
-                "repo": "linq2db",
-                "stars": 3318
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Entity Framework",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T05:01:15Z",
-                "owner": "dotnet",
-                "repo": "ef6",
-                "stars": 1449
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Micro ORM",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dapper",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T18:54:33Z",
-                "owner": "DapperLib",
-                "repo": "Dapper",
-                "stars": 18365
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ServiceStack.OrmLite",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "C#",
-                "last_commit": "2022-12-24T03:00:07Z",
-                "owner": "ServiceStack",
-                "repo": "ServiceStack.OrmLite",
-                "stars": 1517
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Entity Framework Core Extensions and Helpers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "EFCore.BulkExtensions",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-14T12:25:19Z",
-                "owner": "borisdj",
-                "repo": "EFCore.BulkExtensions",
-                "stars": 4000
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Z.EntityFramework.Plus.EFCore",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T16:29:08Z",
-                "owner": "zzzprojects",
-                "repo": "EntityFramework-Plus",
-                "stars": 2341
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "EF Core Second Level Cache Interceptor",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-14T02:43:00Z",
-                "owner": "VahidN",
-                "repo": "EFCoreSecondLevelCacheInterceptor",
-                "stars": 964
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Entity Framework Core Providers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Microsoft.EntityFrameworkCore.SqlServer",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T23:50:27Z",
-                "owner": "dotnet",
-                "repo": "efcore",
-                "stars": 14769
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Microsoft.EntityFrameworkCore.InMemory",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T23:50:27Z",
-                "owner": "dotnet",
-                "repo": "efcore",
-                "stars": 14769
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Npgsql.EntityFrameworkCore.PostgreSQL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T10:56:45Z",
-                "owner": "npgsql",
-                "repo": "efcore.pg",
-                "stars": 1836
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Dapper Extensions and Helpers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dapper.Contrib",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T18:54:33Z",
-                "owner": "DapperLib",
-                "repo": "Dapper",
-                "stars": 18365
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dapper.SqlBuilder",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T18:54:33Z",
-                "owner": "DapperLib",
-                "repo": "Dapper",
-                "stars": 18365
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Dapper.FluentMap",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "C#",
-                "last_commit": "2023-04-19T13:48:03Z",
-                "owner": "henkmollema",
-                "repo": "Dapper-FluentMap",
-                "stars": 443
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SQL Query Builder",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SqlKata",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-04-10T11:27:35Z",
-                "owner": "sqlkata",
-                "repo": "querybuilder",
-                "stars": 3378
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "ExpressionExtensionSQL",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2024-06-28T08:08:51Z",
-                "owner": "gambarra",
-                "repo": "ExpressionExtensionSQL",
-                "stars": 42
-              }
-            }
-          ]
-        }
-      ],
-      "title": "ORM and Micro-ORM"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "StackExchange.Redis",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T15:22:42Z",
-            "owner": "StackExchange",
-            "repo": "StackExchange.Redis",
-            "stars": 6193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elastic",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-14T10:37:04Z",
-            "owner": "elastic",
-            "repo": "elasticsearch-net",
-            "stars": 3649
-          }
-        }
-      ],
-      "title": "NoSQL"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "MongoDb Helpers/Repository",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Mongo2Go",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-07-21T19:30:52Z",
-                "owner": "Mongo2Go",
-                "repo": "Mongo2Go",
-                "stars": 409
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "MongoDbGenericRepository",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-08-08T22:51:01Z",
-                "owner": "alexandre-spieser",
-                "repo": "mongodb-generic-repository",
-                "stars": 322
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MongoDb Framework",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MongoFramework",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-11T21:03:41Z",
-                "owner": "TurnerSoftware",
-                "repo": "MongoFramework",
-                "stars": 399
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "MongoDb Identity Integration",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "AspNetCore.Identity.MongoDbCore",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-08-11T10:48:23Z",
-                "owner": "alexandre-spieser",
-                "repo": "AspNetCore.Identity.MongoDbCore",
-                "stars": 297
-              }
-            }
-          ]
-        }
-      ],
-      "title": "MongoDb"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Commands/Events Dispatcher",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MediatR",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-07-02T13:51:06Z",
+                "last_commit": "2026-07-02T13:51:10Z",
                 "owner": "LuckyPennySoftware",
-                "repo": "MediatR",
-                "stars": 11851
+                "repo": "AutoMapper",
+                "stars": 10194
               }
             },
             {
               "node_type": "item",
-              "title": "Brighter",
+              "title": "Maspter",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 20342794,
                 "language": "C#",
-                "last_commit": "2026-08-16T16:55:46Z",
-                "owner": "BrighterCommand",
-                "repo": "Brighter",
-                "stars": 2468
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Message Bus",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "RabbitMQ.Client",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-13T23:14:59Z",
-                "owner": "rabbitmq",
-                "repo": "rabbitmq-dotnet-client",
-                "stars": 2279
+                "last_commit": "2026-08-10T09:42:34Z",
+                "owner": "MapsterMapper",
+                "repo": "Mapster",
+                "stars": 5162
               }
             },
             {
               "node_type": "item",
-              "title": "Confluent.Kafka",
+              "title": "Mapperly",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 459090159,
                 "language": "C#",
-                "last_commit": "2026-08-17T17:05:55Z",
-                "owner": "confluentinc",
-                "repo": "confluent-kafka-dotnet",
-                "stars": 269
+                "last_commit": "2026-08-17T18:49:13Z",
+                "owner": "riok",
+                "repo": "mapperly",
+                "stars": 4146
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Object Mapper"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HangFire",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11920542,
+                "language": "C#",
+                "last_commit": "2026-07-20T12:19:41Z",
+                "owner": "HangfireIO",
+                "repo": "Hangfire",
+                "stars": 10119
               }
             },
             {
               "node_type": "item",
-              "title": "kafka-sharp",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "C#",
-                "last_commit": "2022-04-08T14:52:42Z",
-                "owner": "criteo",
-                "repo": "kafka-sharp",
-                "stars": 111
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Service Bus",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MassTransit",
+              "title": "Quartz.NET",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1208824,
                 "language": "C#",
-                "last_commit": "2026-06-04T18:06:31Z",
-                "owner": "MassTransit",
-                "repo": "MassTransit",
-                "stars": 7797
+                "last_commit": "2026-08-19T11:04:00Z",
+                "owner": "quartznet",
+                "repo": "quartznet",
+                "stars": 7068
               }
             },
             {
               "node_type": "item",
-              "title": "NServiceBus",
+              "title": "Coravel",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 137104789,
                 "language": "C#",
-                "last_commit": "2026-08-17T02:03:49Z",
-                "owner": "Particular",
-                "repo": "NServiceBus",
-                "stars": 2168
+                "last_commit": "2025-07-20T03:41:07Z",
+                "owner": "jamesmh",
+                "repo": "coravel",
+                "stars": 4284
               }
             }
-          ]
-        }
-      ],
-      "title": "Messaging and Queue"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "API Frameworks",
+          ],
           "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "ServiceStack",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T17:26:27Z",
-                "owner": "ServiceStack",
-                "repo": "ServiceStack",
-                "stars": 5501
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Microsoft.OData.Core",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T18:28:40Z",
-                "owner": "OData",
-                "repo": "odata.net",
-                "stars": 734
-              }
-            }
-          ]
+          "node_type": "group",
+          "title": "Task Scheduler / Background Job"
         },
         {
-          "node_type": "group",
-          "title": "gRPC",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Grpc.Core",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C++",
-                "last_commit": "2026-08-19T01:59:54Z",
-                "owner": "grpc",
-                "repo": "grpc",
-                "stars": 45228
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "GraphQL",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GraphQL for .NET",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T14:28:25Z",
-                "owner": "graphql-dotnet",
-                "repo": "graphql-dotnet",
-                "stars": 5991
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HotChocolate",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T23:11:33Z",
-                "owner": "ChilliCream",
-                "repo": "graphql-platform",
-                "stars": 5751
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "WCF - SOAP",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SoapCore",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-09T13:34:44Z",
-                "owner": "DigDes",
-                "repo": "SoapCore",
-                "stars": 1056
-              }
-            }
-          ]
-        }
-      ],
-      "title": "API and RPC"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "RestSharp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-02T14:48:54Z",
-            "owner": "restsharp",
-            "repo": "RestSharp",
-            "stars": 9822
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Refit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T14:53:36Z",
-            "owner": "reactiveui",
-            "repo": "refit",
-            "stars": 9562
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RestEase",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-12-10T14:55:20Z",
-            "owner": "canton7",
-            "repo": "RestEase",
-            "stars": 1116
-          }
-        }
-      ],
-      "title": "Http Client / REST"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Mail",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MailKit",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T14:17:34Z",
-                "owner": "jstedfast",
-                "repo": "MailKit",
-                "stars": 6840
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Mail Service SDK",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Sendgrid",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-25T23:24:09Z",
-                "owner": "sendgrid",
-                "repo": "sendgrid-csharp",
-                "stars": 1121
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "SendGrid.SmtpApi",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-25T23:24:26Z",
-                "owner": "sendgrid",
-                "repo": "smtpapi-csharp",
-                "stars": 27
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "SendGrid.CSharp.HTTP.Client",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-25T23:24:37Z",
-                "owner": "sendgrid",
-                "repo": "csharp-http-client",
-                "stars": 26
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "SMTP Server and POP3",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "netDumbster",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2024-07-22T10:31:11Z",
-                "owner": "cmendible",
-                "repo": "netDumbster",
-                "stars": 131
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Mail and SMTP Server"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Security Libraries",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "NWebsec",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2023-03-03T06:09:18Z",
-                "owner": "NWebsec",
-                "repo": "NWebsec",
-                "stars": 550
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Authentication and Authorization",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "IdentityServer4",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": null,
-                "last_commit": "2025-03-06T09:29:02Z",
-                "owner": "DuendeArchive",
-                "repo": "IdentityServer4",
-                "stars": 64
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Captcha",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "PaulMiami.AspNetCore.Mvc.Recaptcha",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2022-06-22T15:29:33Z",
-                "owner": "PaulMiami",
-                "repo": "reCAPTCHA",
-                "stars": 135
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Password Valdiator/Generator",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "PasswordGenerator",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-05-29T09:23:41Z",
-                "owner": "prjseal",
-                "repo": "PasswordGenerator",
-                "stars": 185
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Cryptography",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Portable.BouncyCastle",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2023-06-27T14:57:59Z",
-                "owner": "novotnyllc",
-                "repo": "bc-csharp",
-                "stars": 181
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Security"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Zip Compression",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "SharpZipLib",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2024-09-03T21:00:32Z",
-                "owner": "icsharpcode",
-                "repo": "SharpZipLib",
-                "stars": 3925
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Compression Algorithms",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Brotli.NET",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2024-01-13T01:05:32Z",
-                "owner": "XieJJ99",
-                "repo": "brotli.net",
-                "stars": 71
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Compression"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "CSV",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "CsvHelper",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-06-27T19:49:36Z",
-                "owner": "JoshClose",
-                "repo": "CsvHelper",
-                "stars": 5208
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Excel",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "NPOI",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T12:13:09Z",
-                "owner": "nissl-lab",
-                "repo": "npoi",
-                "stars": 6186
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "EPPlus",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T15:42:26Z",
-                "owner": "EPPlusSoftware",
-                "repo": "EPPlus",
-                "stars": 2029
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Word",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "NPOI",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T12:13:09Z",
-                "owner": "nissl-lab",
-                "repo": "npoi",
-                "stars": 6186
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DocX",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-11T15:10:42Z",
-                "owner": "xceedsoftware",
-                "repo": "DocX",
-                "stars": 1918
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "PDF",
-          "description": null,
           "children": [
             {
               "node_type": "group",
-              "title": "Reporting",
+              "title": "Json Serializer",
               "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "FastReport",
+                  "title": "Newtonsoft.Json (Json.NET)",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 3476845,
                     "language": "C#",
-                    "last_commit": "2026-06-11T13:45:38Z",
-                    "owner": "FastReports",
-                    "repo": "FastReport",
-                    "stars": 3085
+                    "last_commit": "2026-08-13T14:42:55Z",
+                    "owner": "JamesNK",
+                    "repo": "Newtonsoft.Json",
+                    "stars": 11310
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Binary Serializer",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MessagePack",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 81770291,
+                    "language": "C#",
+                    "last_commit": "2026-08-14T07:14:51Z",
+                    "owner": "MessagePack-CSharp",
+                    "repo": "MessagePack-CSharp",
+                    "stars": 6772
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "PdfReport.Core",
+                  "title": "Protobuf-Net",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 20878802,
                     "language": "C#",
-                    "last_commit": "2026-08-17T01:58:29Z",
+                    "last_commit": "2026-08-19T11:38:15Z",
+                    "owner": "protobuf-net",
+                    "repo": "protobuf-net",
+                    "stars": 4968
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Serialization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Database",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LiteDB",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23315232,
+                    "language": "C#",
+                    "last_commit": "2026-08-11T06:00:45Z",
+                    "owner": "litedb-org",
+                    "repo": "LiteDB",
+                    "stars": 9459
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RavenDB.Client",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 542714,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T11:11:26Z",
+                    "owner": "ravendb",
+                    "repo": "ravendb",
+                    "stars": 3989
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Database Connector",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Npgsql",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2883574,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T21:56:16Z",
+                    "owner": "npgsql",
+                    "repo": "npgsql",
+                    "stars": 3719
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MongoDB.Driver",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 699689,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T22:48:47Z",
+                    "owner": "mongodb",
+                    "repo": "mongo-csharp-driver",
+                    "stars": 3241
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Database Migrations",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FluentMigrator",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 589349,
+                    "language": "C#",
+                    "last_commit": "2026-08-12T22:20:08Z",
+                    "owner": "fluentmigrator",
+                    "repo": "fluentmigrator",
+                    "stars": 3509
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Database, Database Drivers, and Migration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "ORM",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Entity Framework Core",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16157746,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T23:50:27Z",
+                    "owner": "dotnet",
+                    "repo": "efcore",
+                    "stars": 14770
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "linq2db",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1916228,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T12:03:42Z",
+                    "owner": "linq2db",
+                    "repo": "linq2db",
+                    "stars": 3319
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Entity Framework",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39985381,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T05:01:15Z",
+                    "owner": "dotnet",
+                    "repo": "ef6",
+                    "stars": 1449
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Micro ORM",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dapper",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1613345,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T18:54:33Z",
+                    "owner": "DapperLib",
+                    "repo": "Dapper",
+                    "stars": 18367
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ServiceStack.OrmLite",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 1340086,
+                    "language": "C#",
+                    "last_commit": "2022-12-24T03:00:07Z",
+                    "owner": "ServiceStack",
+                    "repo": "ServiceStack.OrmLite",
+                    "stars": 1517
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Entity Framework Core Extensions and Helpers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EFCore.BulkExtensions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91096213,
+                    "language": "C#",
+                    "last_commit": "2026-08-14T12:25:19Z",
+                    "owner": "borisdj",
+                    "repo": "EFCore.BulkExtensions",
+                    "stars": 4000
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Z.EntityFramework.Plus.EFCore",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47288921,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T16:29:08Z",
+                    "owner": "zzzprojects",
+                    "repo": "EntityFramework-Plus",
+                    "stars": 2342
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EF Core Second Level Cache Interceptor",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 240666388,
+                    "language": "C#",
+                    "last_commit": "2026-08-14T02:43:00Z",
                     "owner": "VahidN",
-                    "repo": "PdfReport.Core",
-                    "stars": 372
+                    "repo": "EFCoreSecondLevelCacheInterceptor",
+                    "stars": 964
                   }
                 }
               ]
             },
             {
               "node_type": "group",
-              "title": "Renderers",
+              "title": "Entity Framework Core Providers",
               "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "DinkToPdf",
+                  "title": "Microsoft.EntityFrameworkCore.SqlServer",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 16157746,
                     "language": "C#",
-                    "last_commit": "2020-04-18T23:43:04Z",
-                    "owner": "rdvojmoc",
-                    "repo": "DinkToPdf",
-                    "stars": 1194
+                    "last_commit": "2026-08-18T23:50:27Z",
+                    "owner": "dotnet",
+                    "repo": "efcore",
+                    "stars": 14770
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Microsoft.EntityFrameworkCore.InMemory",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 16157746,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T23:50:27Z",
+                    "owner": "dotnet",
+                    "repo": "efcore",
+                    "stars": 14770
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Npgsql.EntityFrameworkCore.PostgreSQL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55906763,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T10:56:45Z",
+                    "owner": "npgsql",
+                    "repo": "efcore.pg",
+                    "stars": 1836
                   }
                 }
               ]
             },
             {
               "node_type": "group",
-              "title": "Create, Edit and Extract",
+              "title": "Dapper Extensions and Helpers",
               "description": null,
               "children": [
                 {
                   "node_type": "item",
-                  "title": "itext7",
+                  "title": "Dapper.Contrib",
                   "description": null,
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 1613345,
                     "language": "C#",
-                    "last_commit": "2026-08-18T21:28:57Z",
-                    "owner": "itext",
-                    "repo": "itext-dotnet",
-                    "stars": 1939
+                    "last_commit": "2026-08-18T18:54:33Z",
+                    "owner": "DapperLib",
+                    "repo": "Dapper",
+                    "stars": 18367
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dapper.SqlBuilder",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1613345,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T18:54:33Z",
+                    "owner": "DapperLib",
+                    "repo": "Dapper",
+                    "stars": 18367
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dapper.FluentMap",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 19104735,
+                    "language": "C#",
+                    "last_commit": "2023-04-19T13:48:03Z",
+                    "owner": "henkmollema",
+                    "repo": "Dapper-FluentMap",
+                    "stars": 444
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "SQL Query Builder",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SqlKata",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 90608506,
+                    "language": "C#",
+                    "last_commit": "2026-04-10T11:27:35Z",
+                    "owner": "sqlkata",
+                    "repo": "querybuilder",
+                    "stars": 3378
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ExpressionExtensionSQL",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160349464,
+                    "language": "C#",
+                    "last_commit": "2024-06-28T08:08:51Z",
+                    "owner": "gambarra",
+                    "repo": "ExpressionExtensionSQL",
+                    "stars": 42
                   }
                 }
               ]
             }
-          ]
-        }
-      ],
-      "title": "CSV, Excel, Word, and PDF"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NodaTime",
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-16T07:35:00Z",
-            "owner": "nodatime",
-            "repo": "nodatime",
-            "stars": 2996
-          }
+          "node_type": "group",
+          "title": "ORM and Micro-ORM"
         },
         {
-          "node_type": "item",
-          "title": "DateTimeExtensions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-09T23:04:10Z",
-            "owner": "joaomatossilva",
-            "repo": "DateTimeExtensions",
-            "stars": 904
-          }
-        }
-      ],
-      "title": "DateTime"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Reflection",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "FastMember",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-09-24T12:43:08Z",
-                "owner": "mgravell",
-                "repo": "fast-member",
-                "stars": 1118
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Expression",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "System.Linq.Dynamic.Core",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-07-11T09:51:10Z",
-                "owner": "zzzprojects",
-                "repo": "System.Linq.Dynamic.Core",
-                "stars": 1711
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Expression Builder",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Castle.DynamicLinqQueryBuilder",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-01-27T02:02:55Z",
-                "owner": "tghamm",
-                "repo": "dynamic-linq-query-builder",
-                "stars": 267
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Reflection and Expression"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AngleSharp",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-08T14:43:48Z",
-            "owner": "AngleSharp",
-            "repo": "AngleSharp",
-            "stars": 5526
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HtmlAgilityPack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-30T00:44:08Z",
-            "owner": "zzzprojects",
-            "repo": "html-agility-pack",
-            "stars": 2846
-          }
-        }
-      ],
-      "title": "HtmlParser"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Profiling/Monitoring",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MiniProfiler",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-08-03T00:31:11Z",
-                "owner": "MiniProfiler",
-                "repo": "dotnet",
-                "stars": 3009
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Tracing",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "prometheus-net",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2024-04-11T13:14:54Z",
-                "owner": "prometheus-net",
-                "repo": "prometheus-net",
-                "stars": 2093
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Metrics",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "App.Metrics",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-07-23T12:16:32Z",
-                "owner": "AppMetrics",
-                "repo": "AppMetrics",
-                "stars": 2248
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Profling, Tracing, and Metrics"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Distributed",
-          "description": null,
           "children": [
             {
               "node_type": "item",
@@ -1603,721 +574,1881 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17748183,
                 "language": "C#",
-                "last_commit": "2026-08-18T15:22:42Z",
+                "last_commit": "2026-08-19T06:36:09Z",
                 "owner": "StackExchange",
                 "repo": "StackExchange.Redis",
-                "stars": 6193
+                "stars": 6195
               }
             },
             {
               "node_type": "item",
-              "title": "ServiceStack.Redis",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "C#",
-                "last_commit": "2022-02-16T04:46:00Z",
-                "owner": "ServiceStack",
-                "repo": "ServiceStack.Redis",
-                "stars": 2280
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Caching Frameworks",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "FusionCache",
+              "title": "Elastic",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 942613,
                 "language": "C#",
-                "last_commit": "2026-08-17T19:11:21Z",
-                "owner": "ZiggyCreatures",
-                "repo": "FusionCache",
-                "stars": 3880
+                "last_commit": "2026-08-14T10:37:04Z",
+                "owner": "elastic",
+                "repo": "elasticsearch-net",
+                "stars": 3650
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NoSQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "MongoDb Helpers/Repository",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mongo2Go",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5190543,
+                    "language": "C#",
+                    "last_commit": "2026-07-21T19:30:52Z",
+                    "owner": "Mongo2Go",
+                    "repo": "Mongo2Go",
+                    "stars": 409
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MongoDbGenericRepository",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 52662265,
+                    "language": "C#",
+                    "last_commit": "2025-08-08T22:51:01Z",
+                    "owner": "alexandre-spieser",
+                    "repo": "mongodb-generic-repository",
+                    "stars": 322
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MongoDb Framework",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MongoFramework",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78110067,
+                    "language": "C#",
+                    "last_commit": "2026-08-11T21:03:41Z",
+                    "owner": "TurnerSoftware",
+                    "repo": "MongoFramework",
+                    "stars": 399
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "MongoDb Identity Integration",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AspNetCore.Identity.MongoDbCore",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 107821176,
+                    "language": "C#",
+                    "last_commit": "2025-08-11T10:48:23Z",
+                    "owner": "alexandre-spieser",
+                    "repo": "AspNetCore.Identity.MongoDbCore",
+                    "stars": 297
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MongoDb"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Commands/Events Dispatcher",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MediatR",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17369361,
+                    "language": "C#",
+                    "last_commit": "2026-07-02T13:51:06Z",
+                    "owner": "LuckyPennySoftware",
+                    "repo": "MediatR",
+                    "stars": 11852
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Brighter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1223855,
+                    "language": "C#",
+                    "last_commit": "2026-08-16T16:55:46Z",
+                    "owner": "BrighterCommand",
+                    "repo": "Brighter",
+                    "stars": 2468
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Message Bus",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RabbitMQ.Client",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 924562,
+                    "language": "C#",
+                    "last_commit": "2026-08-13T23:14:59Z",
+                    "owner": "rabbitmq",
+                    "repo": "rabbitmq-dotnet-client",
+                    "stars": 2280
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Confluent.Kafka",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72554578,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T17:05:55Z",
+                    "owner": "confluentinc",
+                    "repo": "confluent-kafka-dotnet",
+                    "stars": 269
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "kafka-sharp",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 59816220,
+                    "language": "C#",
+                    "last_commit": "2022-04-08T14:52:42Z",
+                    "owner": "criteo",
+                    "repo": "kafka-sharp",
+                    "stars": 111
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Service Bus",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MassTransit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 778828,
+                    "language": "C#",
+                    "last_commit": "2026-06-04T18:06:31Z",
+                    "owner": "MassTransit",
+                    "repo": "MassTransit",
+                    "stars": 7797
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NServiceBus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1056713,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T02:03:49Z",
+                    "owner": "Particular",
+                    "repo": "NServiceBus",
+                    "stars": 2168
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Messaging and Queue"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "API Frameworks",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ServiceStack",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1339922,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T17:26:27Z",
+                    "owner": "ServiceStack",
+                    "repo": "ServiceStack",
+                    "stars": 5500
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Microsoft.OData.Core",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 23308338,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T18:28:40Z",
+                    "owner": "OData",
+                    "repo": "odata.net",
+                    "stars": 734
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "gRPC",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Grpc.Core",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27729880,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T10:10:10Z",
+                    "owner": "grpc",
+                    "repo": "grpc",
+                    "stars": 45231
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GraphQL",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GraphQL for .NET",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 38632468,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T14:28:25Z",
+                    "owner": "graphql-dotnet",
+                    "repo": "graphql-dotnet",
+                    "stars": 5993
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HotChocolate",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 117102183,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T08:56:12Z",
+                    "owner": "ChilliCream",
+                    "repo": "graphql-platform",
+                    "stars": 5752
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "WCF - SOAP",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SoapCore",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 77414336,
+                    "language": "C#",
+                    "last_commit": "2026-06-09T13:34:44Z",
+                    "owner": "DigDes",
+                    "repo": "SoapCore",
+                    "stars": 1056
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API and RPC"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RestSharp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374228,
+                "language": "C#",
+                "last_commit": "2026-06-02T14:48:54Z",
+                "owner": "restsharp",
+                "repo": "RestSharp",
+                "stars": 9823
               }
             },
             {
               "node_type": "item",
-              "title": "CacheManager.Core",
+              "title": "Refit",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 11591313,
                 "language": "C#",
-                "last_commit": "2026-02-18T08:21:59Z",
-                "owner": "MichaCo",
-                "repo": "CacheManager",
-                "stars": 2420
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Second Level Cache",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "EF Core Second Level Cache Interceptor",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-14T02:43:00Z",
-                "owner": "VahidN",
-                "repo": "EFCoreSecondLevelCacheInterceptor",
-                "stars": 964
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Caching"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Test Frameworks",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "xUnit",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T16:34:28Z",
-                "owner": "xunit",
-                "repo": "xunit",
-                "stars": 4599
+                "last_commit": "2026-08-18T14:53:36Z",
+                "owner": "reactiveui",
+                "repo": "refit",
+                "stars": 9562
               }
             },
             {
               "node_type": "item",
-              "title": "NUnit",
+              "title": "RestEase",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35160657,
                 "language": "C#",
-                "last_commit": "2026-08-18T19:29:34Z",
-                "owner": "nunit",
-                "repo": "nunit",
-                "stars": 2623
+                "last_commit": "2023-12-10T14:55:20Z",
+                "owner": "canton7",
+                "repo": "RestEase",
+                "stars": 1116
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Http Client / REST"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Mail",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MailKit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14999623,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T14:17:34Z",
+                    "owner": "jstedfast",
+                    "repo": "MailKit",
+                    "stars": 6840
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Mail Service SDK",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Sendgrid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3114746,
+                    "language": "C#",
+                    "last_commit": "2026-06-25T23:24:09Z",
+                    "owner": "sendgrid",
+                    "repo": "sendgrid-csharp",
+                    "stars": 1121
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SendGrid.SmtpApi",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15619935,
+                    "language": "C#",
+                    "last_commit": "2026-06-25T23:24:26Z",
+                    "owner": "sendgrid",
+                    "repo": "smtpapi-csharp",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SendGrid.CSharp.HTTP.Client",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 53075159,
+                    "language": "C#",
+                    "last_commit": "2026-06-25T23:24:37Z",
+                    "owner": "sendgrid",
+                    "repo": "csharp-http-client",
+                    "stars": 26
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "SMTP Server and POP3",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "netDumbster",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2032772,
+                    "language": "C#",
+                    "last_commit": "2024-07-22T10:31:11Z",
+                    "owner": "cmendible",
+                    "repo": "netDumbster",
+                    "stars": 131
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mail and SMTP Server"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Security Libraries",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NWebsec",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29354498,
+                    "language": "C#",
+                    "last_commit": "2023-03-03T06:09:18Z",
+                    "owner": "NWebsec",
+                    "repo": "NWebsec",
+                    "stars": 550
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Authentication and Authorization",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "IdentityServer4",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 46652227,
+                    "language": null,
+                    "last_commit": "2025-03-06T09:29:02Z",
+                    "owner": "DuendeArchive",
+                    "repo": "IdentityServer4",
+                    "stars": 64
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Captcha",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PaulMiami.AspNetCore.Mvc.Recaptcha",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61829049,
+                    "language": "C#",
+                    "last_commit": "2022-06-22T15:29:33Z",
+                    "owner": "PaulMiami",
+                    "repo": "reCAPTCHA",
+                    "stars": 135
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Password Valdiator/Generator",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PasswordGenerator",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 73497431,
+                    "language": "C#",
+                    "last_commit": "2026-05-29T09:23:41Z",
+                    "owner": "prjseal",
+                    "repo": "PasswordGenerator",
+                    "stars": 185
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Cryptography",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Portable.BouncyCastle",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 75499108,
+                    "language": "C#",
+                    "last_commit": "2023-06-27T14:57:59Z",
+                    "owner": "novotnyllc",
+                    "repo": "bc-csharp",
+                    "stars": 181
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Zip Compression",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SharpZipLib",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 868789,
+                    "language": "C#",
+                    "last_commit": "2024-09-03T21:00:32Z",
+                    "owner": "icsharpcode",
+                    "repo": "SharpZipLib",
+                    "stars": 3925
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Compression Algorithms",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Brotli.NET",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71767434,
+                    "language": "C#",
+                    "last_commit": "2024-01-13T01:05:32Z",
+                    "owner": "XieJJ99",
+                    "repo": "brotli.net",
+                    "stars": 71
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "CSV",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CsvHelper",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 453037,
+                    "language": "C#",
+                    "last_commit": "2025-06-27T19:49:36Z",
+                    "owner": "JoshClose",
+                    "repo": "CsvHelper",
+                    "stars": 5209
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Excel",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NPOI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7400815,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T12:13:09Z",
+                    "owner": "nissl-lab",
+                    "repo": "npoi",
+                    "stars": 6186
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EPPlus",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 189234354,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T07:15:47Z",
+                    "owner": "EPPlusSoftware",
+                    "repo": "EPPlus",
+                    "stars": 2029
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Word",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NPOI",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7400815,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T12:13:09Z",
+                    "owner": "nissl-lab",
+                    "repo": "npoi",
+                    "stars": 6186
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "DocX",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46660317,
+                    "language": "C#",
+                    "last_commit": "2026-06-11T15:10:42Z",
+                    "owner": "xceedsoftware",
+                    "repo": "DocX",
+                    "stars": 1918
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "PDF",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "Reporting",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "FastReport",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 154637304,
+                        "language": "C#",
+                        "last_commit": "2026-06-11T13:45:38Z",
+                        "owner": "FastReports",
+                        "repo": "FastReport",
+                        "stars": 3085
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "PdfReport.Core",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 74256669,
+                        "language": "C#",
+                        "last_commit": "2026-08-17T01:58:29Z",
+                        "owner": "VahidN",
+                        "repo": "PdfReport.Core",
+                        "stars": 372
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Renderers",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "DinkToPdf",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 88499452,
+                        "language": "C#",
+                        "last_commit": "2020-04-18T23:43:04Z",
+                        "owner": "rdvojmoc",
+                        "repo": "DinkToPdf",
+                        "stars": 1195
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Create, Edit and Extract",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "itext7",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 61301085,
+                        "language": "C#",
+                        "last_commit": "2026-08-18T21:28:57Z",
+                        "owner": "itext",
+                        "repo": "itext-dotnet",
+                        "stars": 1940
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CSV, Excel, Word, and PDF"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NodaTime",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32252455,
+                "language": "C#",
+                "last_commit": "2026-07-16T07:35:00Z",
+                "owner": "nodatime",
+                "repo": "nodatime",
+                "stars": 2997
               }
             },
             {
               "node_type": "item",
-              "title": "MyTested.AspNetCore.Mvc",
+              "title": "DateTimeExtensions",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2247604,
                 "language": "C#",
-                "last_commit": "2025-03-04T09:47:24Z",
-                "owner": "ivaylokenov",
-                "repo": "MyTested.AspNetCore.Mvc",
-                "stars": 1711
+                "last_commit": "2026-07-09T23:04:10Z",
+                "owner": "joaomatossilva",
+                "repo": "DateTimeExtensions",
+                "stars": 904
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DateTime"
         },
         {
-          "node_type": "group",
-          "title": "Asserations",
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Reflection",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FastMember",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 46745163,
+                    "language": "C#",
+                    "last_commit": "2025-09-24T12:43:08Z",
+                    "owner": "mgravell",
+                    "repo": "fast-member",
+                    "stars": 1118
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Expression",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "System.Linq.Dynamic.Core",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 55794557,
+                    "language": "C#",
+                    "last_commit": "2026-07-11T09:51:10Z",
+                    "owner": "zzzprojects",
+                    "repo": "System.Linq.Dynamic.Core",
+                    "stars": 1711
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Expression Builder",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Castle.DynamicLinqQueryBuilder",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47482714,
+                    "language": "C#",
+                    "last_commit": "2026-01-27T02:02:55Z",
+                    "owner": "tghamm",
+                    "repo": "dynamic-linq-query-builder",
+                    "stars": 267
+                  }
+                }
+              ]
+            }
+          ],
           "description": null,
+          "node_type": "group",
+          "title": "Reflection and Expression"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "FluentAssertions",
+              "title": "AngleSharp",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 10501638,
                 "language": "C#",
-                "last_commit": "2026-08-18T19:02:19Z",
-                "owner": "fluentassertions",
-                "repo": "fluentassertions",
-                "stars": 3816
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Mocking",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Moq",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T13:42:14Z",
-                "owner": "devlooped",
-                "repo": "moq",
-                "stars": 6402
+                "last_commit": "2026-08-08T14:43:48Z",
+                "owner": "AngleSharp",
+                "repo": "AngleSharp",
+                "stars": 5527
               }
             },
             {
               "node_type": "item",
-              "title": "NSubstitute",
+              "title": "HtmlAgilityPack",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 89846741,
                 "language": "C#",
-                "last_commit": "2026-08-17T20:27:10Z",
-                "owner": "nsubstitute",
-                "repo": "NSubstitute",
-                "stars": 2970
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "FakeItEasy",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T08:46:51Z",
-                "owner": "FakeItEasy",
-                "repo": "FakeItEasy",
-                "stars": 1845
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Fixture - Data Generator",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "AutoFixture",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-07-31T16:10:42Z",
-                "owner": "AutoFixture",
-                "repo": "AutoFixture",
-                "stars": 3537
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "NBuilder",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-12-28T15:29:41Z",
-                "owner": "nbuilder",
-                "repo": "nbuilder",
-                "stars": 480
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Helpers",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Respawn",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-01-19T17:21:15Z",
-                "owner": "jbogard",
-                "repo": "Respawn",
-                "stars": 3020
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "HttpClient Mocking",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "RichardSzalay.MockHttp",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-08T02:10:36Z",
-                "owner": "richardszalay",
-                "repo": "mockhttp",
-                "stars": 1766
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "EF/Queryable Mocking",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MockQueryable",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T07:12:21Z",
-                "owner": "ramantsitou",
-                "repo": "MockQueryable",
-                "stars": 867
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Effort.EF6",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-21T18:47:37Z",
+                "last_commit": "2026-06-30T00:44:08Z",
                 "owner": "zzzprojects",
-                "repo": "EntityFramework-Effort",
-                "stars": 430
+                "repo": "html-agility-pack",
+                "stars": 2846
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "HtmlParser"
         },
         {
-          "node_type": "group",
-          "title": "Temp Database",
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Profiling/Monitoring",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MiniProfiler",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11906821,
+                    "language": "C#",
+                    "last_commit": "2025-08-03T00:31:11Z",
+                    "owner": "MiniProfiler",
+                    "repo": "dotnet",
+                    "stars": 3010
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Tracing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "prometheus-net",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32881114,
+                    "language": "C#",
+                    "last_commit": "2024-04-11T13:14:54Z",
+                    "owner": "prometheus-net",
+                    "repo": "prometheus-net",
+                    "stars": 2094
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Metrics",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "App.Metrics",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74253137,
+                    "language": "C#",
+                    "last_commit": "2025-07-23T12:16:32Z",
+                    "owner": "AppMetrics",
+                    "repo": "AppMetrics",
+                    "stars": 2249
+                  }
+                }
+              ]
+            }
+          ],
           "description": null,
+          "node_type": "group",
+          "title": "Profling, Tracing, and Metrics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Distributed",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "StackExchange.Redis",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17748183,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T06:36:09Z",
+                    "owner": "StackExchange",
+                    "repo": "StackExchange.Redis",
+                    "stars": 6195
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ServiceStack.Redis",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 1340226,
+                    "language": "C#",
+                    "last_commit": "2022-02-16T04:46:00Z",
+                    "owner": "ServiceStack",
+                    "repo": "ServiceStack.Redis",
+                    "stars": 2280
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Caching Frameworks",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FusionCache",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 325843416,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T12:02:55Z",
+                    "owner": "ZiggyCreatures",
+                    "repo": "FusionCache",
+                    "stars": 3880
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CacheManager.Core",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 32676553,
+                    "language": "C#",
+                    "last_commit": "2026-02-18T08:21:59Z",
+                    "owner": "MichaCo",
+                    "repo": "CacheManager",
+                    "stars": 2420
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Second Level Cache",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EF Core Second Level Cache Interceptor",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 240666388,
+                    "language": "C#",
+                    "last_commit": "2026-08-14T02:43:00Z",
+                    "owner": "VahidN",
+                    "repo": "EFCoreSecondLevelCacheInterceptor",
+                    "stars": 964
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Caching"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Test Frameworks",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "xUnit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 9891249,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T16:34:28Z",
+                    "owner": "xunit",
+                    "repo": "xunit",
+                    "stars": 4599
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NUnit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13692183,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T19:29:34Z",
+                    "owner": "nunit",
+                    "repo": "nunit",
+                    "stars": 2623
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MyTested.AspNetCore.Mvc",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47242493,
+                    "language": "C#",
+                    "last_commit": "2025-03-04T09:47:24Z",
+                    "owner": "ivaylokenov",
+                    "repo": "MyTested.AspNetCore.Mvc",
+                    "stars": 1711
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Asserations",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FluentAssertions",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11718424,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T07:42:23Z",
+                    "owner": "fluentassertions",
+                    "repo": "fluentassertions",
+                    "stars": 3816
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Mocking",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Moq",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3689718,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T13:42:14Z",
+                    "owner": "devlooped",
+                    "repo": "moq",
+                    "stars": 6402
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NSubstitute",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 346893,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T20:27:10Z",
+                    "owner": "nsubstitute",
+                    "repo": "NSubstitute",
+                    "stars": 2970
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FakeItEasy",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1920133,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T08:46:51Z",
+                    "owner": "FakeItEasy",
+                    "repo": "FakeItEasy",
+                    "stars": 1845
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Fixture - Data Generator",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AutoFixture",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4475900,
+                    "language": "C#",
+                    "last_commit": "2026-07-31T16:10:42Z",
+                    "owner": "AutoFixture",
+                    "repo": "AutoFixture",
+                    "stars": 3537
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NBuilder",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2424269,
+                    "language": "C#",
+                    "last_commit": "2025-12-28T15:29:41Z",
+                    "owner": "nbuilder",
+                    "repo": "nbuilder",
+                    "stars": 480
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Helpers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Respawn",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31019968,
+                    "language": "C#",
+                    "last_commit": "2026-01-19T17:21:15Z",
+                    "owner": "jbogard",
+                    "repo": "Respawn",
+                    "stars": 3020
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "HttpClient Mocking",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RichardSzalay.MockHttp",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21084970,
+                    "language": "C#",
+                    "last_commit": "2026-08-08T02:10:36Z",
+                    "owner": "richardszalay",
+                    "repo": "mockhttp",
+                    "stars": 1766
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "EF/Queryable Mocking",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MockQueryable",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 115428922,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T07:12:21Z",
+                    "owner": "ramantsitou",
+                    "repo": "MockQueryable",
+                    "stars": 867
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Effort.EF6",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10839411,
+                    "language": "C#",
+                    "last_commit": "2026-06-21T18:47:37Z",
+                    "owner": "zzzprojects",
+                    "repo": "EntityFramework-Effort",
+                    "stars": 430
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Temp Database",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mongo2Go",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5190543,
+                    "language": "C#",
+                    "last_commit": "2026-07-21T19:30:52Z",
+                    "owner": "Mongo2Go",
+                    "repo": "Mongo2Go",
+                    "stars": 409
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EfCore.TestSupport",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 99205107,
+                    "language": "C#",
+                    "last_commit": "2025-12-23T11:42:20Z",
+                    "owner": "JonPSmith",
+                    "repo": "EfCore.TestSupport",
+                    "stars": 366
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Log Testing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Serilog.Sinks.XUnit",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 83481182,
+                    "language": "C#",
+                    "last_commit": "2024-12-10T21:31:34Z",
+                    "owner": "trbenning",
+                    "repo": "serilog-sinks-xunit",
+                    "stars": 95
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Snapshot Testing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Verify",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 223284876,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T04:13:44Z",
+                    "owner": "VerifyTests",
+                    "repo": "Verify",
+                    "stars": 3465
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Snapshooter",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 165853566,
+                    "language": "C#",
+                    "last_commit": "2026-02-24T14:47:00Z",
+                    "owner": "SwissLife-OSS",
+                    "repo": "snapshooter",
+                    "stars": 333
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "BDD Testing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LightBDD",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12663545,
+                    "language": "C#",
+                    "last_commit": "2026-06-27T20:43:35Z",
+                    "owner": "LightBDD",
+                    "repo": "LightBDD",
+                    "stars": 476
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "UI Testing",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Selenium.WebDriver",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7613257,
+                    "language": "Java",
+                    "last_commit": "2026-08-19T11:39:25Z",
+                    "owner": "SeleniumHQ",
+                    "repo": "selenium",
+                    "stars": 34378
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Puppeteer Sharp",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 105399035,
+                    "language": "C#",
+                    "last_commit": "2026-08-17T20:54:08Z",
+                    "owner": "hardkoded",
+                    "repo": "puppeteer-sharp",
+                    "stars": 3912
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Code Coverage",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Coverlet",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 119716732,
+                    "language": "C#",
+                    "last_commit": "2026-08-08T05:42:55Z",
+                    "owner": "coverlet-coverage",
+                    "repo": "coverlet",
+                    "stars": 3173
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ReportGenerator",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 30238219,
+                    "language": "C#",
+                    "last_commit": "2026-08-12T15:26:51Z",
+                    "owner": "danielpalme",
+                    "repo": "ReportGenerator",
+                    "stars": 3088
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "XUnit Extensions\\Helpers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "xunit.analyzers",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 67083446,
+                    "language": "C#",
+                    "last_commit": "2026-08-15T02:12:32Z",
+                    "owner": "xunit",
+                    "repo": "xunit.analyzers",
+                    "stars": 201
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "xunit.categories",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 74908045,
+                    "language": "C#",
+                    "last_commit": "2026-05-19T14:48:37Z",
+                    "owner": "brendanconnolly",
+                    "repo": "Xunit.Categories",
+                    "stars": 143
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "Mongo2Go",
+              "title": "NSwag",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 41822320,
                 "language": "C#",
-                "last_commit": "2026-07-21T19:30:52Z",
-                "owner": "Mongo2Go",
-                "repo": "Mongo2Go",
-                "stars": 409
+                "last_commit": "2026-06-21T10:29:45Z",
+                "owner": "RicoSuter",
+                "repo": "NSwag",
+                "stars": 7359
               }
             },
             {
               "node_type": "item",
-              "title": "EfCore.TestSupport",
+              "title": "Swagger (Swashbuckle)",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 32304121,
                 "language": "C#",
-                "last_commit": "2025-12-23T11:42:20Z",
-                "owner": "JonPSmith",
-                "repo": "EfCore.TestSupport",
-                "stars": 366
+                "last_commit": "2026-08-19T10:01:31Z",
+                "owner": "domaindrivendev",
+                "repo": "Swashbuckle.AspNetCore",
+                "stars": 5496
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenAPI"
         },
         {
-          "node_type": "group",
-          "title": "Log Testing",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "Serilog.Sinks.XUnit",
+              "node_type": "group",
+              "title": "Logging libraries",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2024-12-10T21:31:34Z",
-                "owner": "trbenning",
-                "repo": "serilog-sinks-xunit",
-                "stars": 95
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Snapshot Testing",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Verify",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-18T18:19:52Z",
-                "owner": "VerifyTests",
-                "repo": "Verify",
-                "stars": 3465
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Serilog",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 8198511,
+                    "language": "C#",
+                    "last_commit": "2026-07-31T10:58:30Z",
+                    "owner": "serilog",
+                    "repo": "serilog",
+                    "stars": 8032
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NLog",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 5780416,
+                    "language": "C#",
+                    "last_commit": "2026-08-16T22:46:07Z",
+                    "owner": "NLog",
+                    "repo": "NLog",
+                    "stars": 6547
+                  }
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Snapshooter",
+              "node_type": "group",
+              "title": "Logging Management",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-02-24T14:47:00Z",
-                "owner": "SwissLife-OSS",
-                "repo": "snapshooter",
-                "stars": 333
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Sentry",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 133374092,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T10:24:09Z",
+                    "owner": "getsentry",
+                    "repo": "sentry-dotnet",
+                    "stars": 770
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Logging"
         },
         {
-          "node_type": "group",
-          "title": "BDD Testing",
-          "description": null,
           "children": [
             {
-              "node_type": "item",
-              "title": "LightBDD",
+              "node_type": "group",
+              "title": "Template Engine",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-06-27T20:43:35Z",
-                "owner": "LightBDD",
-                "repo": "LightBDD",
-                "stars": 476
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "UI Testing",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Selenium.WebDriver",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Java",
-                "last_commit": "2026-08-19T00:24:15Z",
-                "owner": "SeleniumHQ",
-                "repo": "selenium",
-                "stars": 34377
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "DotLiquid",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 847744,
+                    "language": "C#",
+                    "last_commit": "2025-04-02T14:26:26Z",
+                    "owner": "dotliquid",
+                    "repo": "dotliquid",
+                    "stars": 1095
+                  }
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Puppeteer Sharp",
+              "node_type": "group",
+              "title": "Razor Templating (Core)",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-17T20:54:08Z",
-                "owner": "hardkoded",
-                "repo": "puppeteer-sharp",
-                "stars": 3912
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Code Coverage",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Coverlet",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-08T05:42:55Z",
-                "owner": "coverlet-coverage",
-                "repo": "coverlet",
-                "stars": 3173
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RazorLight",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63956962,
+                    "language": "C#",
+                    "last_commit": "2024-07-06T00:44:05Z",
+                    "owner": "toddams",
+                    "repo": "RazorLight",
+                    "stars": 1661
+                  }
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "ReportGenerator",
+              "node_type": "group",
+              "title": "Razor Templating MVC5",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-12T15:26:51Z",
-                "owner": "danielpalme",
-                "repo": "ReportGenerator",
-                "stars": 3087
-              }
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RazorEngine",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1973880,
+                    "language": "C#",
+                    "last_commit": "2021-05-11T16:32:23Z",
+                    "owner": "Antaris",
+                    "repo": "RazorEngine",
+                    "stars": 2159
+                  }
+                }
+              ]
             }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "XUnit Extensions\\Helpers",
+          ],
           "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "xunit.analyzers",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-15T02:12:32Z",
-                "owner": "xunit",
-                "repo": "xunit.analyzers",
-                "stars": 201
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "xunit.categories",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-05-19T14:48:37Z",
-                "owner": "brendanconnolly",
-                "repo": "Xunit.Categories",
-                "stars": 143
-              }
-            }
-          ]
+          "node_type": "group",
+          "title": "Templating"
         }
       ],
-      "title": "Testing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NSwag",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-21T10:29:45Z",
-            "owner": "RicoSuter",
-            "repo": "NSwag",
-            "stars": 7358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swagger (Swashbuckle)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-12T10:45:54Z",
-            "owner": "domaindrivendev",
-            "repo": "Swashbuckle.AspNetCore",
-            "stars": 5495
-          }
-        }
-      ],
-      "title": "OpenAPI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Logging libraries",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Serilog",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-07-31T10:58:30Z",
-                "owner": "serilog",
-                "repo": "serilog",
-                "stars": 8031
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "NLog",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-16T22:46:07Z",
-                "owner": "NLog",
-                "repo": "NLog",
-                "stars": 6546
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Logging Management",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Sentry",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2026-08-19T03:01:49Z",
-                "owner": "getsentry",
-                "repo": "sentry-dotnet",
-                "stars": 770
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Logging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Template Engine",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "DotLiquid",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-04-02T14:26:26Z",
-                "owner": "dotliquid",
-                "repo": "dotliquid",
-                "stars": 1095
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Razor Templating (Core)",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "RazorLight",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2024-07-06T00:44:05Z",
-                "owner": "toddams",
-                "repo": "RazorLight",
-                "stars": 1661
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Razor Templating MVC5",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "RazorEngine",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2021-05-11T16:32:23Z",
-                "owner": "Antaris",
-                "repo": "RazorEngine",
-                "stars": 2159
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Templating"
-    },
-    {
-      "description": "Contributions are always welcome! Feel free to open an issue or create a pull request.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "To the extent possible under law, Mohammad Javad Ebrahimi has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:26:05.421Z",
+    "last_updated": "2026-08-19T12:13:00.364Z",
     "original_repository": "mjebrahimi/Awesome-Nuget-Packages",
+    "original_repository_id": 326010934,
     "original_repository_sha": "2694fece5a8ca2d36c0fff5a9697c0064df98a07",
     "enhanced_repository": "enhansome/enhansome-Awesome-Nuget-Packages",
     "enhanced_repository_description": null,
