@@ -91,7 +91,7 @@
                 "last_commit": "2026-07-20T12:19:41Z",
                 "owner": "HangfireIO",
                 "repo": "Hangfire",
-                "stars": 10125
+                "stars": 10126
               }
             },
             {
@@ -106,7 +106,7 @@
                 "last_commit": "2026-08-24T20:41:48Z",
                 "owner": "quartznet",
                 "repo": "quartznet",
-                "stars": 7067
+                "stars": 7068
               }
             },
             {
@@ -898,7 +898,7 @@
                     "archived": false,
                     "id": 27729880,
                     "language": "C++",
-                    "last_commit": "2026-08-25T00:33:51Z",
+                    "last_commit": "2026-08-25T06:03:24Z",
                     "owner": "grpc",
                     "repo": "grpc",
                     "stars": 45256
@@ -1472,7 +1472,7 @@
                         "last_commit": "2026-08-24T21:02:59Z",
                         "owner": "itext",
                         "repo": "itext-dotnet",
-                        "stars": 1941
+                        "stars": 1942
                       }
                     }
                   ]
@@ -2232,7 +2232,7 @@
                     "last_commit": "2026-08-25T00:26:08Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34389
+                    "stars": 34390
                   }
                 },
                 {
@@ -2421,7 +2421,7 @@
                     "archived": false,
                     "id": 133374092,
                     "language": "C#",
-                    "last_commit": "2026-08-24T22:24:31Z",
+                    "last_commit": "2026-08-25T04:58:23Z",
                     "owner": "getsentry",
                     "repo": "sentry-dotnet",
                     "stars": 770
@@ -2534,7 +2534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:27:22.600Z",
+    "last_updated": "2026-08-25T06:22:46.873Z",
     "original_repository": "mjebrahimi/Awesome-Nuget-Packages",
     "original_repository_id": 326010934,
     "original_repository_sha": "2694fece5a8ca2d36c0fff5a9697c0064df98a07",

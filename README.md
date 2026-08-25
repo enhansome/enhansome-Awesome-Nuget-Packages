@@ -74,18 +74,18 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 
 ### Task Scheduler / Background Job
 
-* [**HangFire**](https://github.com/HangfireIO/Hangfire) ⭐ 10,125 | 🐛 946 | 🌐 C# | 📅 2026-07-20
+* [**HangFire**](https://github.com/HangfireIO/Hangfire) ⭐ 10,126 | 🐛 946 | 🌐 C# | 📅 2026-07-20
 
   > An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/HangfireIO/Hangfire?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/HangfireIO/Hangfire) ⭐ 10,125 | 🐛 946 | 🌐 C# | 📅 2026-07-20
+  [![GitHub Stars](https://img.shields.io/github/stars/HangfireIO/Hangfire?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/HangfireIO/Hangfire) ⭐ 10,126 | 🐛 946 | 🌐 C# | 📅 2026-07-20
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Hangfire?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Hangfire)
 
-* [**Quartz.NET**](https://github.com/quartznet/quartznet) ⭐ 7,067 | 🐛 15 | 🌐 C# | 📅 2026-08-24
+* [**Quartz.NET**](https://github.com/quartznet/quartznet) ⭐ 7,068 | 🐛 15 | 🌐 C# | 📅 2026-08-24
 
   > Quartz Enterprise Scheduler .NET
 
-  [![GitHub Stars](https://img.shields.io/github/stars/quartznet/quartznet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/quartznet/quartznet) ⭐ 7,067 | 🐛 15 | 🌐 C# | 📅 2026-08-24
+  [![GitHub Stars](https://img.shields.io/github/stars/quartznet/quartznet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/quartznet/quartznet) ⭐ 7,068 | 🐛 15 | 🌐 C# | 📅 2026-08-24
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Quartz?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Quartz)
 
 * [**Coravel**](https://github.com/jamesmh/coravel) ⭐ 4,285 | 🐛 84 | 🌐 C# | 📅 2025-07-20
@@ -423,11 +423,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.OData.Core?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Microsoft.OData.Core)
 
 * gRPC
-  * [**Grpc.Core**](https://github.com/grpc/grpc) ⭐ 45,256 | 🐛 1,379 | 🌐 C++ | 📅 2026-08-25
+  * [**Grpc.Core**](https://github.com/grpc/grpc) ⭐ 45,256 | 🐛 1,377 | 🌐 C++ | 📅 2026-08-25
 
     > A C# implementation of gRPC based on the native gRPC Core library.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/grpc/grpc?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/grpc/grpc) ⭐ 45,256 | 🐛 1,379 | 🌐 C++ | 📅 2026-08-25
+    [![GitHub Stars](https://img.shields.io/github/stars/grpc/grpc?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/grpc/grpc) ⭐ 45,256 | 🐛 1,377 | 🌐 C++ | 📅 2026-08-25
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Grpc.Core?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Grpc.Core)
 
 * GraphQL
@@ -647,11 +647,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
       [![NuGet Downloads](https://img.shields.io/nuget/dt/DinkToPdf?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/DinkToPdf)
 
   * Create, Edit and Extract
-    * [**itext7**](https://github.com/itext/itext7-dotnet) ⭐ 1,941 | 🐛 14 | 🌐 C# | 📅 2026-08-24
+    * [**itext7**](https://github.com/itext/itext7-dotnet) ⭐ 1,942 | 🐛 14 | 🌐 C# | 📅 2026-08-24
 
       > iText 7 allows you to build custom PDF scenarios for web, mobile, desktop or cloud apps in .NET.
 
-      [![GitHub Stars](https://img.shields.io/github/stars/itext/itext7-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/itext/itext7-dotnet) ⭐ 1,941 | 🐛 14 | 🌐 C# | 📅 2026-08-24
+      [![GitHub Stars](https://img.shields.io/github/stars/itext/itext7-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/itext/itext7-dotnet) ⭐ 1,942 | 🐛 14 | 🌐 C# | 📅 2026-08-24
       [![NuGet Downloads](https://img.shields.io/nuget/dt/itext7?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/itext7)
 
 ### DateTime
@@ -962,11 +962,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/SpecFlow?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/SpecFlow)
 
 * UI Testing
-  * [**Selenium.WebDriver**](https://github.com/SeleniumHQ/selenium) ⭐ 34,389 | 🐛 185 | 🌐 Java | 📅 2026-08-25
+  * [**Selenium.WebDriver**](https://github.com/SeleniumHQ/selenium) ⭐ 34,390 | 🐛 186 | 🌐 Java | 📅 2026-08-25
 
     > Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements within a browser, and one of its key features is the support for automating multiple browser platforms.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/SeleniumHQ/selenium) ⭐ 34,389 | 🐛 185 | 🌐 Java | 📅 2026-08-25
+    [![GitHub Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/SeleniumHQ/selenium) ⭐ 34,390 | 🐛 186 | 🌐 Java | 📅 2026-08-25
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Selenium.WebDriver?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Selenium.WebDriver)
 
   * [**Puppeteer Sharp**](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,915 | 🐛 11 | 🌐 C# | 📅 2026-08-17
@@ -1039,11 +1039,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NLog?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NLog)
 
 * Logging Management
-  * [**Sentry**](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 323 | 🌐 C# | 📅 2026-08-24
+  * [**Sentry**](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 323 | 🌐 C# | 📅 2026-08-25
 
     > Open-source error tracking that helps developers monitor and fix crashes in real time.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/getsentry/sentry-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 323 | 🌐 C# | 📅 2026-08-24
+    [![GitHub Stars](https://img.shields.io/github/stars/getsentry/sentry-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 323 | 🌐 C# | 📅 2026-08-25
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Sentry?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Sentry)
 
 ### Templating
