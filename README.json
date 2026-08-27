@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 459090159,
                 "language": "C#",
-                "last_commit": "2026-08-17T18:49:13Z",
+                "last_commit": "2026-08-27T12:07:45Z",
                 "owner": "riok",
                 "repo": "mapperly",
                 "stars": 4153
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-01T23:51:16Z",
                 "owner": "autofac",
                 "repo": "Autofac",
-                "stars": 4657
+                "stars": 4658
               }
             }
           ],
@@ -314,7 +314,7 @@
                     "archived": false,
                     "id": 16157746,
                     "language": "C#",
-                    "last_commit": "2026-08-27T07:50:40Z",
+                    "last_commit": "2026-08-27T12:26:06Z",
                     "owner": "dotnet",
                     "repo": "efcore",
                     "stars": 14780
@@ -329,7 +329,7 @@
                     "archived": false,
                     "id": 1916228,
                     "language": "C#",
-                    "last_commit": "2026-08-27T10:13:56Z",
+                    "last_commit": "2026-08-27T11:59:29Z",
                     "owner": "linq2db",
                     "repo": "linq2db",
                     "stars": 3322
@@ -455,7 +455,7 @@
                     "archived": false,
                     "id": 16157746,
                     "language": "C#",
-                    "last_commit": "2026-08-27T07:50:40Z",
+                    "last_commit": "2026-08-27T12:26:06Z",
                     "owner": "dotnet",
                     "repo": "efcore",
                     "stars": 14780
@@ -470,7 +470,7 @@
                     "archived": false,
                     "id": 16157746,
                     "language": "C#",
-                    "last_commit": "2026-08-27T07:50:40Z",
+                    "last_commit": "2026-08-27T12:26:06Z",
                     "owner": "dotnet",
                     "repo": "efcore",
                     "stars": 14780
@@ -832,7 +832,7 @@
                     "archived": false,
                     "id": 1056713,
                     "language": "C#",
-                    "last_commit": "2026-08-27T10:37:17Z",
+                    "last_commit": "2026-08-27T13:00:58Z",
                     "owner": "Particular",
                     "repo": "NServiceBus",
                     "stars": 2168
@@ -901,7 +901,7 @@
                     "last_commit": "2026-08-27T09:48:21Z",
                     "owner": "grpc",
                     "repo": "grpc",
-                    "stars": 45266
+                    "stars": 45267
                   }
                 }
               ]
@@ -935,7 +935,7 @@
                     "archived": false,
                     "id": 117102183,
                     "language": "C#",
-                    "last_commit": "2026-08-27T10:24:09Z",
+                    "last_commit": "2026-08-27T12:47:45Z",
                     "owner": "ChilliCream",
                     "repo": "graphql-platform",
                     "stars": 5752
@@ -1804,7 +1804,7 @@
                     "last_commit": "2026-08-26T23:43:06Z",
                     "owner": "ZiggyCreatures",
                     "repo": "FusionCache",
-                    "stars": 3897
+                    "stars": 3898
                   }
                 },
                 {
@@ -2170,7 +2170,7 @@
                     "archived": false,
                     "id": 223284876,
                     "language": "C#",
-                    "last_commit": "2026-08-27T11:10:21Z",
+                    "last_commit": "2026-08-27T13:01:45Z",
                     "owner": "VerifyTests",
                     "repo": "Verify",
                     "stars": 3466
@@ -2229,10 +2229,10 @@
                     "archived": false,
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-27T03:15:28Z",
+                    "last_commit": "2026-08-27T12:07:18Z",
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34401
+                    "stars": 34402
                   }
                 },
                 {
@@ -2518,7 +2518,7 @@
                 "archived": false,
                 "id": 281360869,
                 "language": "C#",
-                "last_commit": "2026-08-27T01:45:02Z",
+                "last_commit": "2026-08-27T11:55:15Z",
                 "owner": "spectreconsole",
                 "repo": "spectre.console",
                 "stars": 11600
@@ -2534,7 +2534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:01.673Z",
+    "last_updated": "2026-08-27T13:02:26.469Z",
     "original_repository_info": {
       "archived": false,
       "id": 326010934,
