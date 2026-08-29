@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A convention-based object-object mapper in .NET. ",
+                "homepage": "https://automapper.io",
                 "id": 505380,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-02T13:51:10Z",
+                "open_issues": 6,
                 "owner": "LuckyPennySoftware",
                 "repo": "AutoMapper",
-                "stars": 10192
+                "stars": 10192,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -28,12 +33,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, fun and stimulating object to object Mapper",
+                "homepage": "http://mapstermapper.github.io/Mapster/",
                 "id": 20342794,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T11:11:54Z",
+                "open_issues": 79,
                 "owner": "MapsterMapper",
                 "repo": "Mapster",
-                "stars": 5163
+                "stars": 5163,
+                "topics": [
+                  "c-sharp",
+                  "codegenerator",
+                  "fast",
+                  "mapper",
+                  "mapping"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -44,12 +60,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A .NET source generator for generating object mappings. No runtime reflection.",
+                "homepage": "https://mapperly.riok.app",
                 "id": 459090159,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T12:07:45Z",
+                "open_issues": 69,
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4153
+                "stars": 4153,
+                "topics": [
+                  "c-sharp",
+                  "csharp",
+                  "csharp-sourcegenerator",
+                  "dotnet",
+                  "dotnet-core",
+                  "mapping",
+                  "roslyn"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -67,12 +96,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An addictive .NET IoC container",
+                "homepage": "https://autofac.org",
                 "id": 16139210,
                 "language": "C#",
-                "last_commit": "2026-08-01T23:51:16Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:50:22Z",
+                "open_issues": 6,
                 "owner": "autofac",
                 "repo": "Autofac",
-                "stars": 4658
+                "stars": 4658,
+                "topics": [
+                  "autofac",
+                  "c-sharp",
+                  "dependency-injection",
+                  "ioc-container",
+                  "netcore",
+                  "netstandard"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -90,12 +131,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required",
+                "homepage": "https://www.hangfire.io",
                 "id": 11920542,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T12:20:39Z",
+                "open_issues": 941,
                 "owner": "HangfireIO",
                 "repo": "Hangfire",
-                "stars": 10129
+                "stars": 10129,
+                "topics": [
+                  "background-jobs",
+                  "background-thread",
+                  "background-worker",
+                  "dotnet",
+                  "dotnet-core",
+                  "hangfire",
+                  "scheduled-jobs"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -106,12 +160,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Quartz Enterprise Scheduler .NET",
+                "homepage": "http://www.quartz-scheduler.net/",
                 "id": 1208824,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T19:29:51Z",
+                "open_issues": 11,
                 "owner": "quartznet",
                 "repo": "quartznet",
-                "stars": 7069
+                "stars": 7069,
+                "topics": [
+                  "c-sharp",
+                  "cron",
+                  "dotnet",
+                  "dotnetcore",
+                  "hacktoberfest",
+                  "job-scheduler",
+                  "nuget",
+                  "quartz",
+                  "scheduled-jobs",
+                  "scheduled-tasks",
+                  "scheduler",
+                  "scheduling",
+                  "trigger"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -122,12 +195,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Near-zero config .NET library that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!",
+                "homepage": "https://docs.coravel.net/Installation/",
                 "id": 137104789,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-07-20T03:41:07Z",
+                "open_issues": 84,
                 "owner": "jamesmh",
                 "repo": "coravel",
-                "stars": 4287
+                "stars": 4287,
+                "topics": [
+                  "background-jobs",
+                  "background-thread",
+                  "background-worker",
+                  "dotnet",
+                  "dotnet-core",
+                  "dotnetcore",
+                  "hacktoberfest",
+                  "mailing",
+                  "queue",
+                  "scheduled-jobs"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -150,12 +239,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Json.NET is a popular high-performance JSON framework for .NET",
+                    "homepage": "https://www.newtonsoft.com/json",
                     "id": 3476845,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T14:42:55Z",
+                    "open_issues": 826,
                     "owner": "JamesNK",
                     "repo": "Newtonsoft.Json",
-                    "stars": 11315
+                    "stars": 11315,
+                    "topics": [
+                      "c-sharp",
+                      "json"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -173,12 +270,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
+                    "homepage": null,
                     "id": 81770291,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T11:53:37Z",
+                    "open_issues": 146,
                     "owner": "MessagePack-CSharp",
                     "repo": "MessagePack-CSharp",
-                    "stars": 6774
+                    "stars": 6774,
+                    "topics": [
+                      "c-sharp",
+                      "lz4",
+                      "messagepack",
+                      "msgpack",
+                      "serialization",
+                      "serializer",
+                      "unity",
+                      "xamarin"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -189,12 +300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Protocol Buffers library for idiomatic .NET ",
+                    "homepage": "https://docs.protobuf-net.dev/",
                     "id": 20878802,
                     "language": "C#",
-                    "last_commit": "2026-08-26T18:17:24Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T15:25:18Z",
+                    "open_issues": 537,
                     "owner": "protobuf-net",
                     "repo": "protobuf-net",
-                    "stars": 4968
+                    "stars": 4968,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -219,12 +335,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LiteDB - A .NET NoSQL Document Store in a single data file",
+                    "homepage": "http://www.litedb.org",
                     "id": 23315232,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T08:45:54Z",
+                    "open_issues": 759,
                     "owner": "litedb-org",
                     "repo": "LiteDB",
-                    "stars": 9458
+                    "stars": 9458,
+                    "topics": [
+                      "database",
+                      "dotnet",
+                      "hacktoberfest",
+                      "litedb",
+                      "nosql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -235,12 +362,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ACID Document Database",
+                    "homepage": "https://ravendb.net",
                     "id": 542714,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T13:51:12Z",
+                    "open_issues": 74,
                     "owner": "ravendb",
                     "repo": "ravendb",
-                    "stars": 3994
+                    "stars": 3994,
+                    "topics": [
+                      "csharp",
+                      "database",
+                      "document-database",
+                      "dotnet",
+                      "full-text-search",
+                      "indexing",
+                      "iot",
+                      "nosql",
+                      "ravendb",
+                      "search-engine",
+                      "sharding",
+                      "spatial",
+                      "time-series",
+                      "vector-search"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -258,12 +405,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Npgsql is the .NET data provider for PostgreSQL.",
+                    "homepage": "http://www.npgsql.org",
                     "id": 2883574,
                     "language": "C#",
+                    "license": "PostgreSQL",
                     "last_commit": "2026-08-28T10:15:56Z",
+                    "open_issues": 223,
                     "owner": "npgsql",
                     "repo": "npgsql",
-                    "stars": 3721
+                    "stars": 3721,
+                    "topics": [
+                      "c-sharp",
+                      "database",
+                      "dotnet",
+                      "npgsql",
+                      "postgres",
+                      "postgresql",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -274,12 +434,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Official C# .NET Driver for MongoDB",
+                    "homepage": "https://www.mongodb.com/docs/drivers/csharp/current/",
                     "id": 699689,
                     "language": "C#",
-                    "last_commit": "2026-08-27T16:31:23Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T19:50:23Z",
+                    "open_issues": 12,
                     "owner": "mongodb",
                     "repo": "mongo-csharp-driver",
-                    "stars": 3241
+                    "stars": 3241,
+                    "topics": [
+                      "csharp",
+                      "csharp-library",
+                      "dotnet-framework",
+                      "mongodb",
+                      "nosql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -297,12 +468,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fluent migrations framework for .NET",
+                    "homepage": "https://fluentmigrator.github.io",
                     "id": 589349,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-26T18:25:31Z",
+                    "open_issues": 219,
                     "owner": "fluentmigrator",
                     "repo": "fluentmigrator",
-                    "stars": 3510
+                    "stars": 3510,
+                    "topics": [
+                      "database",
+                      "database-schema",
+                      "db2",
+                      "dotnet",
+                      "fluentmigrator",
+                      "migration",
+                      "mysql",
+                      "oracle",
+                      "postgres",
+                      "redshift",
+                      "snowflake",
+                      "sql",
+                      "sql-server"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -327,12 +517,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+                    "homepage": "https://learn.microsoft.com/ef/",
                     "id": 16157746,
                     "language": "C#",
-                    "last_commit": "2026-08-28T11:21:24Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:44:25Z",
+                    "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
-                    "stars": 14782
+                    "stars": 14784,
+                    "topics": [
+                      "aspnet-product",
+                      "c-sharp",
+                      "database",
+                      "dotnet-core",
+                      "dotnet-framework",
+                      "dotnet-standard",
+                      "entity-framework",
+                      "hacktoberfest",
+                      "orm"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -343,12 +548,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linq to database provider.",
+                    "homepage": null,
                     "id": 1916228,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T12:42:40Z",
+                    "open_issues": 398,
                     "owner": "linq2db",
                     "repo": "linq2db",
-                    "stars": 3323
+                    "stars": 3323,
+                    "topics": [
+                      "access",
+                      "bulk-inserts",
+                      "clickhouse",
+                      "database",
+                      "db2",
+                      "dotnet",
+                      "firebird",
+                      "informix",
+                      "linq",
+                      "mariadb",
+                      "mssql",
+                      "mysql",
+                      "oracle",
+                      "orm",
+                      "postgresql",
+                      "sap-hana",
+                      "sql",
+                      "sqlce",
+                      "sqlite",
+                      "sqlserver"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -359,12 +590,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/dotnet/efcore.",
+                    "homepage": "https://docs.microsoft.com/ef/ef6",
                     "id": 39985381,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T05:01:51Z",
+                    "open_issues": 4,
                     "owner": "dotnet",
                     "repo": "ef6",
-                    "stars": 1451
+                    "stars": 1451,
+                    "topics": [
+                      "database",
+                      "dotnet-framework",
+                      "ef6",
+                      "entity-framework",
+                      "entity-framework-6",
+                      "orm"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -382,12 +625,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dapper - a simple object mapper for .Net",
+                    "homepage": "https://www.learndapper.com/",
                     "id": 1613345,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-20T14:20:52Z",
+                    "open_issues": 546,
                     "owner": "DapperLib",
                     "repo": "Dapper",
-                    "stars": 18374
+                    "stars": 18375,
+                    "topics": [
+                      "ado-net",
+                      "dapper",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -398,12 +650,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Fast, Simple, Typed ORM for .NET",
+                    "homepage": "https://servicestack.net/ormlite",
                     "id": 1340086,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-12-24T03:00:07Z",
+                    "open_issues": 46,
                     "owner": "ServiceStack",
                     "repo": "ServiceStack.OrmLite",
-                    "stars": 1517
+                    "stars": 1517,
+                    "topics": [
+                      "c-sharp",
+                      "firebird",
+                      "high-performance",
+                      "linq",
+                      "mysql",
+                      "net-core",
+                      "net-framework",
+                      "oracle",
+                      "orm",
+                      "poco",
+                      "postgresql",
+                      "sqlite",
+                      "sqlserver"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -421,12 +692,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite, Oracle",
+                    "homepage": "https://codis.tech/efcorebulk",
                     "id": 91096213,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-14T12:25:19Z",
+                    "open_issues": 128,
                     "owner": "borisdj",
                     "repo": "EFCore.BulkExtensions",
-                    "stars": 4001
+                    "stars": 4001,
+                    "topics": [
+                      "batch",
+                      "bulk",
+                      "copy",
+                      "efcore",
+                      "entity-framework-core",
+                      "entityframework",
+                      "entityframeworkcore",
+                      "mysql",
+                      "postgresql",
+                      "sql",
+                      "sqlbulkcopy",
+                      "sqlite",
+                      "sqlserver"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -437,12 +727,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Entity Framework Plus extends your DbContext with must-haves features: Include Filter, Auditing, Caching, Query Future, Batch Delete, Batch Update, and more",
+                    "homepage": "https://entityframework-plus.net/",
                     "id": 47288921,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-18T16:29:08Z",
+                    "open_issues": 139,
                     "owner": "zzzprojects",
                     "repo": "EntityFramework-Plus",
-                    "stars": 2342
+                    "stars": 2342,
+                    "topics": [
+                      "csharp",
+                      "dotnet",
+                      "ef6",
+                      "efcore",
+                      "entity-framework",
+                      "entity-framework-core",
+                      "entityframework"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -453,12 +756,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EF Core Second Level Cache Interceptor",
+                    "homepage": null,
                     "id": 240666388,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-14T02:43:00Z",
+                    "open_issues": 2,
                     "owner": "VahidN",
                     "repo": "EFCoreSecondLevelCacheInterceptor",
-                    "stars": 965
+                    "stars": 965,
+                    "topics": [
+                      "aspnetcore",
+                      "ef-core",
+                      "efcore",
+                      "entity-framework",
+                      "entity-framework-core",
+                      "entityframework"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -476,12 +791,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+                    "homepage": "https://learn.microsoft.com/ef/",
                     "id": 16157746,
                     "language": "C#",
-                    "last_commit": "2026-08-28T11:21:24Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:44:25Z",
+                    "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
-                    "stars": 14782
+                    "stars": 14784,
+                    "topics": [
+                      "aspnet-product",
+                      "c-sharp",
+                      "database",
+                      "dotnet-core",
+                      "dotnet-framework",
+                      "dotnet-standard",
+                      "entity-framework",
+                      "hacktoberfest",
+                      "orm"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -492,12 +822,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+                    "homepage": "https://learn.microsoft.com/ef/",
                     "id": 16157746,
                     "language": "C#",
-                    "last_commit": "2026-08-28T11:21:24Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:44:25Z",
+                    "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
-                    "stars": 14782
+                    "stars": 14784,
+                    "topics": [
+                      "aspnet-product",
+                      "c-sharp",
+                      "database",
+                      "dotnet-core",
+                      "dotnet-framework",
+                      "dotnet-standard",
+                      "entity-framework",
+                      "hacktoberfest",
+                      "orm"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -508,12 +853,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Entity Framework Core provider for PostgreSQL",
+                    "homepage": null,
                     "id": 55906763,
                     "language": "C#",
+                    "license": "PostgreSQL",
                     "last_commit": "2026-08-28T09:52:14Z",
+                    "open_issues": 292,
                     "owner": "npgsql",
                     "repo": "efcore.pg",
-                    "stars": 1836
+                    "stars": 1836,
+                    "topics": [
+                      "database",
+                      "dotnet",
+                      "entity-framework",
+                      "entity-framework-core",
+                      "npgsql",
+                      "postgres",
+                      "postgresql",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -531,12 +890,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dapper - a simple object mapper for .Net",
+                    "homepage": "https://www.learndapper.com/",
                     "id": 1613345,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-20T14:20:52Z",
+                    "open_issues": 546,
                     "owner": "DapperLib",
                     "repo": "Dapper",
-                    "stars": 18374
+                    "stars": 18375,
+                    "topics": [
+                      "ado-net",
+                      "dapper",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -547,12 +915,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dapper - a simple object mapper for .Net",
+                    "homepage": "https://www.learndapper.com/",
                     "id": 1613345,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-20T14:20:52Z",
+                    "open_issues": 546,
                     "owner": "DapperLib",
                     "repo": "Dapper",
-                    "stars": 18374
+                    "stars": 18375,
+                    "topics": [
+                      "ado-net",
+                      "dapper",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -563,12 +940,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Provides a simple API to fluently map POCO properties to database columns when using Dapper.",
+                    "homepage": null,
                     "id": 19104735,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2023-04-19T13:48:03Z",
+                    "open_issues": 0,
                     "owner": "henkmollema",
                     "repo": "Dapper-FluentMap",
-                    "stars": 444
+                    "stars": 444,
+                    "topics": [
+                      "c-sharp",
+                      "dapper",
+                      "poco-properties"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -586,12 +972,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird",
+                    "homepage": "https://sqlkata.com",
                     "id": 90608506,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-04-10T11:27:35Z",
+                    "open_issues": 180,
                     "owner": "sqlkata",
                     "repo": "querybuilder",
-                    "stars": 3379
+                    "stars": 3379,
+                    "topics": [
+                      "activerecord",
+                      "c-sharp",
+                      "csharp",
+                      "data-access-layer",
+                      "database",
+                      "mysql",
+                      "postgresql",
+                      "query-builder",
+                      "sql",
+                      "sql-query",
+                      "sql-query-builder",
+                      "sql-server"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -602,12 +1006,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://www.nuget.org/packages/ExpressionExtensionSQL/",
                     "id": 160349464,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-06-28T08:08:51Z",
+                    "open_issues": 1,
                     "owner": "gambarra",
                     "repo": "ExpressionExtensionSQL",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "builder",
+                      "dapper",
+                      "dotnet",
+                      "dotnet-core",
+                      "expression",
+                      "predicate",
+                      "sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -627,12 +1044,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Redis client for .NET",
+                "homepage": "https://seredis.dev/",
                 "id": 17748183,
                 "language": "C#",
-                "last_commit": "2026-08-28T13:37:15Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T16:06:38Z",
+                "open_issues": 220,
                 "owner": "StackExchange",
                 "repo": "StackExchange.Redis",
-                "stars": 6198
+                "stars": 6198,
+                "topics": [
+                  "c-sharp",
+                  "redis",
+                  "redis-client"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -643,12 +1069,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This strongly-typed, client library enables working with Elasticsearch. It is the official client maintained and supported by Elastic.",
+                "homepage": "https://www.elastic.co/guide/en/elasticsearch/client/net-api/current/index.html",
                 "id": 942613,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:29:51Z",
+                "open_issues": 73,
                 "owner": "elastic",
                 "repo": "elasticsearch-net",
-                "stars": 3650
+                "stars": 3650,
+                "topics": [
+                  "c-sharp",
+                  "client",
+                  "dot-net",
+                  "dot-net-client",
+                  "elasticsearch",
+                  "elasticsearch-net",
+                  "nest"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -671,12 +1110,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mongo2Go - MongoDB for .NET integration tests",
+                    "homepage": null,
                     "id": 5190543,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-07-21T19:30:52Z",
+                    "open_issues": 1,
                     "owner": "Mongo2Go",
                     "repo": "Mongo2Go",
-                    "stars": 409
+                    "stars": 409,
+                    "topics": [
+                      "c-sharp",
+                      "dotnet",
+                      "dotnet-core",
+                      "dotnet-standard",
+                      "mongodb",
+                      "mongoexport",
+                      "mongoimport"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -687,12 +1139,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)",
+                    "homepage": null,
                     "id": 52662265,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-08-08T22:51:01Z",
+                    "open_issues": 8,
                     "owner": "alexandre-spieser",
                     "repo": "mongodb-generic-repository",
-                    "stars": 322
+                    "stars": 322,
+                    "topics": [
+                      "generic",
+                      "mongodb",
+                      "repository"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -710,12 +1171,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An \"Entity Framework\"-like interface for MongoDB",
+                    "homepage": null,
                     "id": 78110067,
                     "language": "C#",
-                    "last_commit": "2026-08-11T21:03:41Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:45:07Z",
+                    "open_issues": 51,
                     "owner": "TurnerSoftware",
                     "repo": "MongoFramework",
-                    "stars": 399
+                    "stars": 399,
+                    "topics": [
+                      "entity-mapping",
+                      "mongodb",
+                      "orm"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -733,12 +1203,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A MongoDb UserStore and RoleStore adapter for Microsoft.AspNetCore.Identity 2.2. Allows you to use MongoDb instead of SQL server with Microsoft.AspNetCore.Identity 2.2. (not Identity 3.0)",
+                    "homepage": null,
                     "id": 107821176,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-08-11T10:48:23Z",
+                    "open_issues": 8,
                     "owner": "alexandre-spieser",
                     "repo": "AspNetCore.Identity.MongoDbCore",
-                    "stars": 297
+                    "stars": 297,
+                    "topics": [
+                      "asp-net-core",
+                      "aspnetcore",
+                      "identity",
+                      "mongodb",
+                      "rolestore",
+                      "store",
+                      "userstore"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -763,12 +1246,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple, unambitious mediator implementation in .NET",
+                    "homepage": null,
                     "id": 17369361,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-02T13:51:06Z",
+                    "open_issues": 2,
                     "owner": "LuckyPennySoftware",
                     "repo": "MediatR",
-                    "stars": 11858
+                    "stars": 11858,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -779,12 +1269,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A framework for building messaging apps with .NET and C#.",
+                    "homepage": "https://brightercommand.gitbook.io/paramore-brighter-documentation",
                     "id": 1223855,
                     "language": "C#",
-                    "last_commit": "2026-08-26T19:44:03Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T20:14:19Z",
+                    "open_issues": 90,
                     "owner": "BrighterCommand",
                     "repo": "Brighter",
-                    "stars": 2472
+                    "stars": 2472,
+                    "topics": [
+                      "asynchronously",
+                      "brighter",
+                      "command-dispatcher",
+                      "command-processor",
+                      "csharp",
+                      "csharp-library",
+                      "dotnet-core",
+                      "kafka",
+                      "mediatr",
+                      "microservices",
+                      "nuget",
+                      "nuget-packages",
+                      "rabbitmq",
+                      "redis-stream",
+                      "scale",
+                      "sns",
+                      "sqs"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -802,12 +1315,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.2+",
+                    "homepage": "https://www.rabbitmq.com/dotnet.html",
                     "id": 924562,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T23:18:06Z",
+                    "open_issues": 64,
                     "owner": "rabbitmq",
                     "repo": "rabbitmq-dotnet-client",
-                    "stars": 2280
+                    "stars": 2280,
+                    "topics": [
+                      "c-sharp",
+                      "dotnet",
+                      "dotnet-core",
+                      "rabbitmq"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -818,12 +1341,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Confluent's Apache Kafka .NET client",
+                    "homepage": "https://github.com/confluentinc/confluent-kafka-dotnet/wiki",
                     "id": 72554578,
                     "language": "C#",
-                    "last_commit": "2026-08-27T07:30:35Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T04:48:58Z",
+                    "open_issues": 477,
                     "owner": "confluentinc",
                     "repo": "confluent-kafka-dotnet",
-                    "stars": 269
+                    "stars": 269,
+                    "topics": [
+                      "c-sharp",
+                      "confluent",
+                      "dotnet",
+                      "kafka",
+                      "kafka-client",
+                      "kafka-clients",
+                      "nuget"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -834,12 +1370,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A C# Kafka driver",
+                    "homepage": null,
                     "id": 59816220,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-08T14:52:42Z",
+                    "open_issues": 7,
                     "owner": "criteo",
                     "repo": "kafka-sharp",
-                    "stars": 111
+                    "stars": 111,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -857,12 +1398,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Distributed Application Framework for .NET",
+                    "homepage": "https://masstransit.io",
                     "id": 778828,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-04T18:06:31Z",
+                    "open_issues": 1,
                     "owner": "MassTransit",
                     "repo": "MassTransit",
-                    "stars": 7798
+                    "stars": 7798,
+                    "topics": [
+                      "azure-service-bus",
+                      "c-sharp",
+                      "dotnet",
+                      "masstransit",
+                      "messaging",
+                      "nuget",
+                      "rabbitmq",
+                      "sqs"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -873,12 +1428,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The gold standard for async .NET microservices on Azure, AWS and on-prem",
+                    "homepage": "https://particular.net/nservicebus/",
                     "id": 1056713,
                     "language": "C#",
-                    "last_commit": "2026-08-28T11:26:27Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T20:51:59Z",
+                    "open_issues": 288,
                     "owner": "Particular",
                     "repo": "NServiceBus",
-                    "stars": 2168
+                    "stars": 2168,
+                    "topics": [
+                      "c-sharp",
+                      "distributed-systems",
+                      "messaging",
+                      "nservicebus"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -903,12 +1468,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all",
+                    "homepage": "https://servicestack.net",
                     "id": 1339922,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T13:45:02Z",
+                    "open_issues": 35,
                     "owner": "ServiceStack",
                     "repo": "ServiceStack",
-                    "stars": 5499
+                    "stars": 5499,
+                    "topics": [
+                      "c-sharp",
+                      "csv",
+                      "framework",
+                      "high-performance",
+                      "json",
+                      "mq",
+                      "net-framework",
+                      "netcore",
+                      "soap",
+                      "web",
+                      "webservices",
+                      "xml"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -919,12 +1502,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ODataLib: Open Data Protocol - .NET Libraries and Frameworks",
+                    "homepage": "https://docs.microsoft.com/odata",
                     "id": 23308338,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T20:49:56Z",
+                    "open_issues": 512,
                     "owner": "OData",
                     "repo": "odata.net",
-                    "stars": 734
+                    "stars": 734,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -942,12 +1530,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+                    "homepage": "https://grpc.io",
                     "id": 27729880,
                     "language": "C++",
-                    "last_commit": "2026-08-28T14:06:57Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T03:27:11Z",
+                    "open_issues": 1362,
                     "owner": "grpc",
                     "repo": "grpc",
-                    "stars": 45272
+                    "stars": 45271,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -965,12 +1558,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GraphQL for .NET",
+                    "homepage": "https://graphql-dotnet.github.io",
                     "id": 38632468,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-23T17:15:14Z",
+                    "open_issues": 135,
                     "owner": "graphql-dotnet",
                     "repo": "graphql-dotnet",
-                    "stars": 5992
+                    "stars": 5992,
+                    "topics": [
+                      "api",
+                      "dotnet-core",
+                      "graphiql",
+                      "graphql",
+                      "graphql-dotnet"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -981,12 +1585,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Nitro the awesome Monaco based GraphQL IDE.",
+                    "homepage": "https://chillicream.com",
                     "id": 117102183,
                     "language": "C#",
-                    "last_commit": "2026-08-28T14:29:05Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T21:01:26Z",
+                    "open_issues": 373,
                     "owner": "ChilliCream",
                     "repo": "graphql-platform",
-                    "stars": 5752
+                    "stars": 5752,
+                    "topics": [
+                      "asp-net",
+                      "asp-net-core",
+                      "c-sharp",
+                      "dataloader",
+                      "dotnet",
+                      "dotnet-core",
+                      "facebook",
+                      "graphql",
+                      "graphql-client",
+                      "graphql-dotnet",
+                      "graphql-fusion",
+                      "graphql-gateway",
+                      "graphql-ide",
+                      "graphql-parser",
+                      "graphql-server",
+                      "graphql-syntax",
+                      "greendonut",
+                      "hotchocolate",
+                      "resolver",
+                      "strawberryshake"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1004,12 +1634,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SOAP extension for ASP.NET Core",
+                    "homepage": null,
                     "id": 77414336,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-09T13:34:44Z",
+                    "open_issues": 5,
                     "owner": "DigDes",
                     "repo": "SoapCore",
-                    "stars": 1055
+                    "stars": 1055,
+                    "topics": [
+                      "middleware",
+                      "soap"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1029,12 +1667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple REST and HTTP API Client for .NET",
+                "homepage": "https://restsharp.dev",
                 "id": 374228,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-02T14:48:54Z",
+                "open_issues": 39,
                 "owner": "restsharp",
                 "repo": "RestSharp",
-                "stars": 9824
+                "stars": 9825,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -1045,12 +1688,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.",
+                "homepage": "https://reactiveui.github.io/refit/",
                 "id": 11591313,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-25T12:11:16Z",
+                "open_issues": 3,
                 "owner": "reactiveui",
                 "repo": "refit",
-                "stars": 9563
+                "stars": 9563,
+                "topics": [
+                  "c-sharp",
+                  "dotnet",
+                  "dotnet-core",
+                  "http",
+                  "json",
+                  "xamarin",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -1061,12 +1717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy-to-use typesafe REST API client library for .NET Standard 1.1 and .NET Framework 4.5 and higher, which is simple and customisable. Inspired by Refit",
+                "homepage": null,
                 "id": 35160657,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-12-10T14:55:20Z",
+                "open_issues": 15,
                 "owner": "canton7",
                 "repo": "RestEase",
-                "stars": 1116
+                "stars": 1116,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -1089,12 +1750,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross-platform .NET library for IMAP, POP3, and SMTP.",
+                    "homepage": "http://www.mimekit.net",
                     "id": 14999623,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T17:49:32Z",
+                    "open_issues": 9,
                     "owner": "jstedfast",
                     "repo": "MailKit",
-                    "stars": 6850
+                    "stars": 6850,
+                    "topics": [
+                      "c-sharp",
+                      "dkim",
+                      "email",
+                      "imap",
+                      "imap-client",
+                      "mime",
+                      "mime-parser",
+                      "pgp",
+                      "pop3",
+                      "pop3-client",
+                      "smime",
+                      "smtp",
+                      "smtp-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1112,12 +1792,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Official Twilio SendGrid C#, .NetStandard, .NetCore API Library",
+                    "homepage": "https://sendgrid.com",
                     "id": 3114746,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-25T23:24:09Z",
+                    "open_issues": 43,
                     "owner": "sendgrid",
                     "repo": "sendgrid-csharp",
-                    "stars": 1122
+                    "stars": 1122,
+                    "topics": [
+                      "c-sharp",
+                      "dotnet",
+                      "dotnet-core",
+                      "dotnet-standard",
+                      "dotnetcore",
+                      "email",
+                      "sendgrid",
+                      "transactional-emails"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1128,12 +1822,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SendGrid's smtpapi library in C#",
+                    "homepage": "https://sendgrid.com",
                     "id": 15619935,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-25T23:24:26Z",
+                    "open_issues": 1,
                     "owner": "sendgrid",
                     "repo": "smtpapi-csharp",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1144,12 +1843,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Twilio SendGrid's C# HTTP Client for calling APIs",
+                    "homepage": "https://sendgrid.com",
                     "id": 53075159,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-25T23:24:37Z",
+                    "open_issues": 3,
                     "owner": "sendgrid",
                     "repo": "csharp-http-client",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "fluent-interface",
+                      "http-client",
+                      "rest-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1167,12 +1875,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "netDumbster is a .Net Fake SMTP Server clone of the popular Dumbster",
+                    "homepage": null,
                     "id": 2032772,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2024-07-22T10:31:11Z",
+                    "open_issues": 2,
                     "owner": "cmendible",
                     "repo": "netDumbster",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": [
+                      "c-sharp",
+                      "hacktoberfest",
+                      "smtp",
+                      "smtp-server",
+                      "unit-testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1197,12 +1916,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Security libraries for ASP.NET",
+                    "homepage": "https://www.nwebsec.com",
                     "id": 29354498,
                     "language": "C#",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-03-03T06:09:18Z",
+                    "open_issues": 48,
                     "owner": "NWebsec",
                     "repo": "NWebsec",
-                    "stars": 550
+                    "stars": 550,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1220,12 +1944,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 46652227,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-06T09:29:02Z",
+                    "open_issues": 0,
                     "owner": "DuendeArchive",
                     "repo": "IdentityServer4",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1243,12 +1972,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "reCAPTCHA 2.0 for ASPNET Core",
+                    "homepage": null,
                     "id": 61829049,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2022-06-22T15:29:33Z",
+                    "open_issues": 17,
                     "owner": "PaulMiami",
                     "repo": "reCAPTCHA",
-                    "stars": 135
+                    "stars": 135,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1266,12 +2000,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A library which generates random passwords with different settings to meet the OWASP requirements",
+                    "homepage": null,
                     "id": 73497431,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-05-29T09:23:41Z",
+                    "open_issues": 0,
                     "owner": "prjseal",
                     "repo": "PasswordGenerator",
-                    "stars": 187
+                    "stars": 187,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1289,12 +2028,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Portable version of Bouncy Castle with support for  .NET 4, .NET Standard 2.0, MonoAndroid, Xamarin.iOS, .NET Core",
+                    "homepage": "https://www.bouncycastle.org/csharp",
                     "id": 75499108,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-06-27T14:57:59Z",
+                    "open_issues": 9,
                     "owner": "novotnyllc",
                     "repo": "bc-csharp",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1319,12 +2063,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.",
+                    "homepage": "http://icsharpcode.github.io/SharpZipLib/",
                     "id": 868789,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-09-03T21:00:32Z",
+                    "open_issues": 118,
                     "owner": "icsharpcode",
                     "repo": "SharpZipLib",
-                    "stars": 3932
+                    "stars": 3932,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1342,12 +2091,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the .net implement for the brotli algorithm",
+                    "homepage": null,
                     "id": 71767434,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2024-01-13T01:05:32Z",
+                    "open_issues": 8,
                     "owner": "XieJJ99",
                     "repo": "brotli.net",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1372,12 +2126,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library to help reading and writing CSV files",
+                    "homepage": "http://joshclose.github.io/CsvHelper/",
                     "id": 453037,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-06-27T19:49:36Z",
+                    "open_issues": 355,
                     "owner": "JoshClose",
                     "repo": "CsvHelper",
-                    "stars": 5208
+                    "stars": 5208,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1395,12 +2156,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.",
+                    "homepage": "http://nissl-lab.github.io/npoi/",
                     "id": 7400815,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T14:06:40Z",
+                    "open_issues": 70,
                     "owner": "nissl-lab",
                     "repo": "npoi",
-                    "stars": 6196
+                    "stars": 6198,
+                    "topics": [
+                      "biff",
+                      "dotnetcore",
+                      "excel",
+                      "office-file-api",
+                      "openxml",
+                      "poi",
+                      "word"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1411,12 +2185,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EPPlus-Excel spreadsheets for .NET",
+                    "homepage": "https://epplussoftware.com",
                     "id": 189234354,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T14:08:14Z",
+                    "open_issues": 92,
                     "owner": "EPPlusSoftware",
                     "repo": "EPPlus",
-                    "stars": 2033
+                    "stars": 2033,
+                    "topics": [
+                      "epplus",
+                      "excel",
+                      "net",
+                      "netcore",
+                      "netframework",
+                      "netstandard",
+                      "ooxml",
+                      "spreadsheet"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1434,12 +2222,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.",
+                    "homepage": "http://nissl-lab.github.io/npoi/",
                     "id": 7400815,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T14:06:40Z",
+                    "open_issues": 70,
                     "owner": "nissl-lab",
                     "repo": "npoi",
-                    "stars": 6196
+                    "stars": 6198,
+                    "topics": [
+                      "biff",
+                      "dotnetcore",
+                      "excel",
+                      "office-file-api",
+                      "openxml",
+                      "poi",
+                      "word"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1450,12 +2251,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fast and easy to use .NET library that creates or modifies Microsoft Word files without installing Word.",
+                    "homepage": null,
                     "id": 46660317,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-11T15:10:42Z",
+                    "open_issues": 315,
                     "owner": "xceedsoftware",
                     "repo": "DocX",
-                    "stars": 1920
+                    "stars": 1920,
+                    "topics": [
+                      "c-sharp",
+                      "docx",
+                      "microsoft-word",
+                      "office"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1478,12 +2289,33 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports",
+                        "homepage": "https://www.fast-report.com",
                         "id": 154637304,
                         "language": "C#",
+                        "license": "MIT",
                         "last_commit": "2026-08-26T15:43:42Z",
+                        "open_issues": 24,
                         "owner": "FastReports",
                         "repo": "FastReport",
-                        "stars": 3087
+                        "stars": 3086,
+                        "topics": [
+                          "csharp",
+                          "dotnet",
+                          "dotnet-core",
+                          "dotnet5",
+                          "dotnet6",
+                          "dotnetcore",
+                          "fastreport",
+                          "opensource",
+                          "pdf",
+                          "pdf-generation",
+                          "report",
+                          "report-generator",
+                          "reporting",
+                          "reporting-engine",
+                          "reporting-tool"
+                        ]
                       },
                       "first_seen": "2026-08-28T14:33:08.130Z"
                     },
@@ -1494,12 +2326,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries",
+                        "homepage": null,
                         "id": 74256669,
                         "language": "C#",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-21T01:57:47Z",
+                        "open_issues": 7,
                         "owner": "VahidN",
                         "repo": "PdfReport.Core",
-                        "stars": 372
+                        "stars": 372,
+                        "topics": [
+                          "epplus",
+                          "itextsharp",
+                          "pdf-report",
+                          "reporting-engine"
+                        ]
                       },
                       "first_seen": "2026-08-28T14:33:08.130Z"
                     }
@@ -1517,12 +2359,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.",
+                        "homepage": null,
                         "id": 88499452,
                         "language": "C#",
+                        "license": "MIT",
                         "last_commit": "2020-04-18T23:43:04Z",
+                        "open_issues": 136,
                         "owner": "rdvojmoc",
                         "repo": "DinkToPdf",
-                        "stars": 1195
+                        "stars": 1195,
+                        "topics": [
+                          "html",
+                          "net-core",
+                          "net-standard",
+                          "pdf",
+                          "pdf-converter",
+                          "wkhtmltopdf"
+                        ]
                       },
                       "first_seen": "2026-08-28T14:33:08.130Z"
                     }
@@ -1540,12 +2394,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enha",
+                        "homepage": "https://itextpdf.com/products/itext-suite",
                         "id": 61301085,
                         "language": "C#",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-08-27T13:33:03Z",
+                        "open_issues": 14,
                         "owner": "itext",
                         "repo": "itext-dotnet",
-                        "stars": 1943
+                        "stars": 1943,
+                        "topics": [
+                          "accessibility",
+                          "acroform",
+                          "archiving",
+                          "ccpa",
+                          "digital-signature",
+                          "documents",
+                          "encryption",
+                          "fips",
+                          "itextsharp",
+                          "library",
+                          "pades",
+                          "pdf",
+                          "pdf-generation",
+                          "pdfa",
+                          "pdfua",
+                          "sdk",
+                          "security",
+                          "signature-validation",
+                          "svg",
+                          "xfdf"
+                        ]
                       },
                       "first_seen": "2026-08-28T14:33:08.130Z"
                     }
@@ -1567,12 +2447,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A better date and time API for .NET",
+                "homepage": "https://nodatime.org",
                 "id": 32252455,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-16T07:35:00Z",
+                "open_issues": 34,
                 "owner": "nodatime",
                 "repo": "nodatime",
-                "stars": 2999
+                "stars": 2999,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -1583,12 +2468,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project is a merge of several common DateTime operations on the form of  extensions to System.DateTime, including natural date difference text (precise and human rounded), holidays and working days calculations on several culture locales.",
+                "homepage": "http://datetimeextensions.azurewebsites.net/",
                 "id": 2247604,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-09T23:04:10Z",
+                "open_issues": 9,
                 "owner": "joaomatossilva",
                 "repo": "DateTimeExtensions",
-                "stars": 904
+                "stars": 904,
+                "topics": [
+                  "datetime",
+                  "good-first-issue"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -1606,12 +2499,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extensions to LINQ to Objects",
+                "homepage": "https://morelinq.github.io/",
                 "id": 41150635,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-25T20:33:04Z",
+                "open_issues": 109,
                 "owner": "morelinq",
                 "repo": "MoreLINQ",
-                "stars": 3834
+                "stars": 3834,
+                "topics": [
+                  "dotnet",
+                  "linq"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -1634,12 +2535,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automatically exported from code.google.com/p/fast-member",
+                    "homepage": null,
                     "id": 46745163,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-24T12:43:08Z",
+                    "open_issues": 61,
                     "owner": "mgravell",
                     "repo": "fast-member",
-                    "stars": 1118
+                    "stars": 1118,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1657,12 +2563,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The .NET Standard / .NET Core version from the System Linq Dynamic functionality.",
+                    "homepage": "https://dynamic-linq.net/",
                     "id": 55794557,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-11T09:51:10Z",
+                    "open_issues": 61,
                     "owner": "zzzprojects",
                     "repo": "System.Linq.Dynamic.Core",
-                    "stars": 1711
+                    "stars": 1711,
+                    "topics": [
+                      "core",
+                      "dynamic",
+                      "efcore",
+                      "entity-framework",
+                      "entity-framework-core",
+                      "expression",
+                      "lamda",
+                      "linq",
+                      "netstandard",
+                      "sql",
+                      "system"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1680,12 +2603,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A truly generic and dynamic linq query builder to compliment jQuery QueryBuilder and other dynamic linq query generation needs",
+                    "homepage": null,
                     "id": 47482714,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-01-27T02:02:55Z",
+                    "open_issues": 13,
                     "owner": "tghamm",
                     "repo": "dynamic-linq-query-builder",
-                    "stars": 267
+                    "stars": 267,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1705,12 +2633,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A popular .NET validation library for building strongly-typed validation rules.",
+                "homepage": "https://fluentvalidation.net",
                 "id": 443962,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T12:15:35Z",
+                "open_issues": 3,
                 "owner": "FluentValidation",
                 "repo": "FluentValidation",
-                "stars": 9753
+                "stars": 9753,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -1728,12 +2661,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.",
+                "homepage": "https://anglesharp.github.io",
                 "id": 10501638,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-23T22:27:18Z",
+                "open_issues": 6,
                 "owner": "AngleSharp",
                 "repo": "AngleSharp",
-                "stars": 5531
+                "stars": 5531,
+                "topics": [
+                  "angle-bracket",
+                  "anglesharp",
+                  "c-sharp",
+                  "dom",
+                  "hacktoberfest",
+                  "html",
+                  "library",
+                  "linq",
+                  "parser"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -1744,12 +2692,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Html Agility Pack (HAP) is a free and open-source HTML parser written in C# to read/write DOM and supports plain XPATH or XSLT. It is a .NET code library that allows you to parse \"out of the web\" HTML files.",
+                "homepage": "https://html-agility-pack.net",
                 "id": 89846741,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-24T15:12:52Z",
+                "open_issues": 81,
                 "owner": "zzzprojects",
                 "repo": "html-agility-pack",
-                "stars": 2847
+                "stars": 2847,
+                "topics": [
+                  "hap",
+                  "html-parser",
+                  "htmlagilitypack",
+                  "parse",
+                  "xpath"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -1772,12 +2731,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple but effective mini-profiler for ASP.NET (and Core) websites",
+                    "homepage": "https://miniprofiler.com/dotnet/",
                     "id": 11906821,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-08-03T00:31:11Z",
+                    "open_issues": 75,
                     "owner": "MiniProfiler",
                     "repo": "dotnet",
-                    "stars": 3009
+                    "stars": 3009,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1795,12 +2759,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ".NET library to instrument your code with Prometheus metrics",
+                    "homepage": "https://prometheus.io",
                     "id": 32881114,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-04-11T13:14:54Z",
+                    "open_issues": 139,
                     "owner": "prometheus-net",
                     "repo": "prometheus-net",
-                    "stars": 2094
+                    "stars": 2094,
+                    "topics": [
+                      "aspnetcore",
+                      "grpc",
+                      "grpc-request-metrics",
+                      "healthchecks",
+                      "httpclientfactory",
+                      "metrics",
+                      "monitoring",
+                      "net-standard",
+                      "performance-metrics",
+                      "performance-monitor",
+                      "prometheus"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1818,12 +2799,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.",
+                    "homepage": "https://app-metrics.io",
                     "id": 74253137,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-07-23T12:16:32Z",
+                    "open_issues": 111,
                     "owner": "AppMetrics",
                     "repo": "AppMetrics",
-                    "stars": 2249
+                    "stars": 2249,
+                    "topics": [
+                      "application-insights",
+                      "dotnet",
+                      "dotnet-core",
+                      "dotnet-framework",
+                      "dotnet-standard",
+                      "dotnetcore",
+                      "grafana",
+                      "grafana-dashboard",
+                      "graphite",
+                      "health-check",
+                      "influxdb",
+                      "instrumentation",
+                      "metrics",
+                      "monitoring",
+                      "performance",
+                      "prometheus"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1848,12 +2851,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Redis client for .NET",
+                    "homepage": "https://seredis.dev/",
                     "id": 17748183,
                     "language": "C#",
-                    "last_commit": "2026-08-28T13:37:15Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T16:06:38Z",
+                    "open_issues": 220,
                     "owner": "StackExchange",
                     "repo": "StackExchange.Redis",
-                    "stars": 6198
+                    "stars": 6198,
+                    "topics": [
+                      "c-sharp",
+                      "redis",
+                      "redis-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1864,12 +2876,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": ".NET's leading C# Redis Client",
+                    "homepage": "https://servicestack.net/redis",
                     "id": 1340226,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-02-16T04:46:00Z",
+                    "open_issues": 17,
                     "owner": "ServiceStack",
                     "repo": "ServiceStack.Redis",
-                    "stars": 2280
+                    "stars": 2280,
+                    "topics": [
+                      "c-sharp",
+                      "high-performance",
+                      "mono",
+                      "net-core",
+                      "net-framework",
+                      "poco",
+                      "redis-client"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1887,12 +2912,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FusionCache is an easy to use, fast and robust hybrid cache with advanced resiliency features.",
+                    "homepage": null,
                     "id": 325843416,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T23:43:06Z",
+                    "open_issues": 37,
                     "owner": "ZiggyCreatures",
                     "repo": "FusionCache",
-                    "stars": 3897
+                    "stars": 3899,
+                    "topics": [
+                      "async",
+                      "cache",
+                      "cache-stampede",
+                      "caching",
+                      "csharp",
+                      "dotnet",
+                      "hybrid",
+                      "hybrid-cache",
+                      "multi-level",
+                      "performance",
+                      "stampede"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1903,12 +2945,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.",
+                    "homepage": "http://cachemanager.michaco.net",
                     "id": 32676553,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-18T08:21:59Z",
+                    "open_issues": 13,
                     "owner": "MichaCo",
                     "repo": "CacheManager",
-                    "stars": 2420
+                    "stars": 2420,
+                    "topics": [
+                      "c-sharp",
+                      "cache",
+                      "cachemanager",
+                      "caching",
+                      "dotnet",
+                      "dotnet-core",
+                      "memcached",
+                      "redis"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1926,12 +2982,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EF Core Second Level Cache Interceptor",
+                    "homepage": null,
                     "id": 240666388,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-14T02:43:00Z",
+                    "open_issues": 2,
                     "owner": "VahidN",
                     "repo": "EFCoreSecondLevelCacheInterceptor",
-                    "stars": 965
+                    "stars": 965,
+                    "topics": [
+                      "aspnetcore",
+                      "ef-core",
+                      "efcore",
+                      "entity-framework",
+                      "entity-framework-core",
+                      "entityframework"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -1956,12 +3024,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "xUnit.net is a free, open source, community-focused unit testing tool for .NET.",
+                    "homepage": "https://xunit.net/",
                     "id": 9891249,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T19:44:12Z",
+                    "open_issues": 23,
                     "owner": "xunit",
                     "repo": "xunit",
-                    "stars": 4600
+                    "stars": 4600,
+                    "topics": [
+                      "c-sharp",
+                      "dotnet",
+                      "unit-testing",
+                      "xunit"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1972,12 +3050,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NUnit Framework",
+                    "homepage": "https://nunit.org/",
                     "id": 13692183,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T19:45:41Z",
+                    "open_issues": 262,
                     "owner": "nunit",
                     "repo": "nunit",
-                    "stars": 2622
+                    "stars": 2622,
+                    "topics": [
+                      "c-sharp",
+                      "dotnet",
+                      "hacktoberfest",
+                      "nunit",
+                      "nunit-framework",
+                      "tdd",
+                      "test-driven-development",
+                      "test-framework",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -1988,12 +3081,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fluent testing library for ASP.NET Core MVC.",
+                    "homepage": "https://docs.mytestedasp.net/",
                     "id": 47242493,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-04T09:47:24Z",
+                    "open_issues": 172,
                     "owner": "ivaylokenov",
                     "repo": "MyTested.AspNetCore.Mvc",
-                    "stars": 1711
+                    "stars": 1711,
+                    "topics": [
+                      "asp-net-core",
+                      "asp-net-core-mvc",
+                      "assertion-library",
+                      "assertion-methods",
+                      "fluent-testing",
+                      "mvc",
+                      "test-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2011,12 +3117,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Core 3.0, .NET 6, .NET Standard 2.0 and 2.1. Supports the unit test frameworks MSTest2, NUnit3, XUnit2, MSpec, and NSpec3.",
+                    "homepage": "https://xceed.com/products/unit-testing/fluent-assertions/",
                     "id": 11718424,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T12:36:46Z",
+                    "open_issues": 66,
                     "owner": "fluentassertions",
                     "repo": "fluentassertions",
-                    "stars": 3816
+                    "stars": 3816,
+                    "topics": [
+                      "assertions",
+                      "bdd-style",
+                      "c-sharp",
+                      "fluent-assertions",
+                      "hacktoberfest",
+                      "mstest",
+                      "tdd",
+                      "unit-testing",
+                      "xunit"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2034,12 +3155,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The most popular and friendly mocking framework for .NET",
+                    "homepage": null,
                     "id": 3689718,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T13:35:10Z",
+                    "open_issues": 21,
                     "owner": "devlooped",
                     "repo": "moq",
-                    "stars": 6403
+                    "stars": 6403,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2050,12 +3176,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A friendly substitute for .NET mocking libraries.",
+                    "homepage": "https://nsubstitute.github.io",
                     "id": 346893,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T20:30:19Z",
+                    "open_issues": 111,
                     "owner": "nsubstitute",
                     "repo": "NSubstitute",
-                    "stars": 2973
+                    "stars": 2973,
+                    "topics": [
+                      "c-sharp",
+                      "dot-net",
+                      "dotnet",
+                      "dotnet-core",
+                      "dotnetcore",
+                      "mock",
+                      "mocking",
+                      "mocks",
+                      "stubs",
+                      "test",
+                      "testing",
+                      "testing-tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2066,12 +3210,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The easy mocking library for .NET",
+                    "homepage": "https://fakeiteasy.github.io",
                     "id": 1920133,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T08:46:51Z",
+                    "open_issues": 4,
                     "owner": "FakeItEasy",
                     "repo": "FakeItEasy",
-                    "stars": 1847
+                    "stars": 1848,
+                    "topics": [
+                      "dotnet",
+                      "dotnet-core",
+                      "fake-objects",
+                      "hacktoberfest",
+                      "mocking"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2089,12 +3244,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.",
+                    "homepage": null,
                     "id": 4475900,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-07-31T16:10:42Z",
+                    "open_issues": 58,
                     "owner": "AutoFixture",
                     "repo": "AutoFixture",
-                    "stars": 3534
+                    "stars": 3534,
+                    "topics": [
+                      "assertion-library",
+                      "assertions",
+                      "auto-mocking",
+                      "autofixture",
+                      "csharp",
+                      "dotnet",
+                      "fakeiteasy",
+                      "foq",
+                      "fscheck",
+                      "fsharp",
+                      "moq",
+                      "nsubstitute",
+                      "nunit",
+                      "tdd",
+                      "test-data",
+                      "test-data-generator",
+                      "testing",
+                      "unit-testing",
+                      "xunit"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2105,12 +3285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rapid generation of test objects in .NET",
+                    "homepage": null,
                     "id": 2424269,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-12-28T15:29:41Z",
+                    "open_issues": 37,
                     "owner": "nbuilder",
                     "repo": "nbuilder",
-                    "stars": 480
+                    "stars": 480,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2128,12 +3313,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Intelligent database cleaner for integration tests",
+                    "homepage": null,
                     "id": 31019968,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-19T17:21:15Z",
+                    "open_issues": 15,
                     "owner": "jbogard",
                     "repo": "Respawn",
-                    "stars": 3019
+                    "stars": 3019,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2151,12 +3341,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Testing layer for Microsoft's HttpClient library. Create canned responses using a fluent API.",
+                    "homepage": null,
                     "id": 21084970,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-08T02:10:36Z",
+                    "open_issues": 16,
                     "owner": "richardszalay",
                     "repo": "mockhttp",
-                    "stars": 1761
+                    "stars": 1761,
+                    "topics": [
+                      "dotnet",
+                      "dotnetcore",
+                      "httpclient",
+                      "mocking",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2174,12 +3375,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mocking Entity Framework Core operations such ToListAsync, FirstOrDefaultAsync etc. Author Raman Tsitou",
+                    "homepage": null,
                     "id": 115428922,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T07:12:21Z",
+                    "open_issues": 4,
                     "owner": "ramantsitou",
                     "repo": "MockQueryable",
-                    "stars": 867
+                    "stars": 867,
+                    "topics": [
+                      "automapper",
+                      "dotnet-core",
+                      "dotnet-framework",
+                      "dotnet-standard",
+                      "ef-core",
+                      "efcore",
+                      "entity-framework",
+                      "fakeiteasy",
+                      "favorite-mock-framework",
+                      "firstordefaultasync",
+                      "mocking",
+                      "moq",
+                      "netcore",
+                      "netstandard20",
+                      "nsubstitute",
+                      "nunit",
+                      "tdd",
+                      "testing",
+                      "tolistasync",
+                      "unittests"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2190,12 +3417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Entity Framework Effort is a powerful tool that enables a convenient way to create automated tests for Entity Framework based applications.",
+                    "homepage": "https://entityframework-effort.net/",
                     "id": 10839411,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-06-21T18:47:37Z",
+                    "open_issues": 23,
                     "owner": "zzzprojects",
                     "repo": "EntityFramework-Effort",
-                    "stars": 430
+                    "stars": 430,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2213,12 +3445,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mongo2Go - MongoDB for .NET integration tests",
+                    "homepage": null,
                     "id": 5190543,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-07-21T19:30:52Z",
+                    "open_issues": 1,
                     "owner": "Mongo2Go",
                     "repo": "Mongo2Go",
-                    "stars": 409
+                    "stars": 409,
+                    "topics": [
+                      "c-sharp",
+                      "dotnet",
+                      "dotnet-core",
+                      "dotnet-standard",
+                      "mongodb",
+                      "mongoexport",
+                      "mongoimport"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2229,12 +3474,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools for helping in unit testing applications that use Entity Framework Core",
+                    "homepage": "https://www.thereformedprogrammer.net/new-features-for-unit-testing-your-entity-framework-core-5-code/",
                     "id": 99205107,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-12-23T11:42:20Z",
+                    "open_issues": 3,
                     "owner": "JonPSmith",
                     "repo": "EfCore.TestSupport",
-                    "stars": 366
+                    "stars": 366,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2252,12 +3502,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The xunit test output sink for Serilog",
+                    "homepage": null,
                     "id": 83481182,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2024-12-10T21:31:34Z",
+                    "open_issues": 7,
                     "owner": "trbenning",
                     "repo": "serilog-sinks-xunit",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2275,12 +3530,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Verify is a snapshot testing tool that simplifies the assertion of complex data models and documents.",
+                    "homepage": null,
                     "id": 223284876,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T12:20:16Z",
+                    "open_issues": 1,
                     "owner": "VerifyTests",
                     "repo": "Verify",
-                    "stars": 3466
+                    "stars": 3466,
+                    "topics": [
+                      "assertion-library",
+                      "snapshot",
+                      "snapshot-testing",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2291,12 +3556,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Snapshooter is a snapshot testing tool for .NET Core and .NET Framework",
+                    "homepage": "https://swisslife-oss.github.io/snapshooter/",
                     "id": 165853566,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-02-24T14:47:00Z",
+                    "open_issues": 67,
                     "owner": "SwissLife-OSS",
                     "repo": "snapshooter",
-                    "stars": 333
+                    "stars": 333,
+                    "topics": [
+                      "csharp",
+                      "json",
+                      "net",
+                      "snapshot",
+                      "snapshot-testing",
+                      "test",
+                      "testing",
+                      "tool",
+                      "xunit"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2314,12 +3594,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BDD framework allowing to create easy to read and maintain tests.",
+                    "homepage": null,
                     "id": 12663545,
                     "language": "C#",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-06-27T20:43:35Z",
+                    "open_issues": 26,
                     "owner": "LightBDD",
                     "repo": "LightBDD",
-                    "stars": 476
+                    "stars": 476,
+                    "topics": [
+                      "bdd",
+                      "bdd-style",
+                      "fixie",
+                      "lightbdd",
+                      "mbunit",
+                      "mstest",
+                      "mstestv2",
+                      "nunit",
+                      "tdd",
+                      "test-framework",
+                      "testframework",
+                      "xunit"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2337,12 +3635,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser automation framework and ecosystem.",
+                    "homepage": "https://selenium.dev",
                     "id": 7613257,
                     "language": "Java",
-                    "last_commit": "2026-08-28T13:55:03Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T00:51:27Z",
+                    "open_issues": 189,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34410
+                    "stars": 34417,
+                    "topics": [
+                      "dotnet",
+                      "java",
+                      "javascript",
+                      "python",
+                      "ruby",
+                      "rust",
+                      "selenium",
+                      "webdriver"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2353,12 +3665,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Headless Chrome .NET API",
+                    "homepage": "https://www.puppeteersharp.com",
                     "id": 105399035,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T20:52:08Z",
+                    "open_issues": 11,
                     "owner": "hardkoded",
                     "repo": "puppeteer-sharp",
-                    "stars": 3916
+                    "stars": 3916,
+                    "topics": [
+                      "automation",
+                      "chrome",
+                      "chromium",
+                      "crawler",
+                      "crawling",
+                      "csharp",
+                      "e2e",
+                      "e2e-testing",
+                      "puppeteer",
+                      "webautomation"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2376,12 +3704,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross platform code coverage for .NET",
+                    "homepage": null,
                     "id": 119716732,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-22T09:51:59Z",
+                    "open_issues": 16,
                     "owner": "coverlet-coverage",
                     "repo": "coverlet",
-                    "stars": 3171
+                    "stars": 3171,
+                    "topics": [
+                      "bytecode",
+                      "code-coverage",
+                      "coverage",
+                      "coverage-library",
+                      "coverlet",
+                      "cross-platform",
+                      "dotnet",
+                      "dotnet-core",
+                      "instrumentation",
+                      "unittest"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2392,12 +3736,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.",
+                    "homepage": "https://reportgenerator.io",
                     "id": 30238219,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-12T15:26:51Z",
+                    "open_issues": 4,
                     "owner": "danielpalme",
                     "repo": "ReportGenerator",
-                    "stars": 3092
+                    "stars": 3092,
+                    "topics": [
+                      "code-coverage",
+                      "dotnet-core",
+                      "reporting",
+                      "tdd-utilities",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2415,12 +3770,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Roslyn analyzers for xUnit.net (please open issues in https://github.com/xunit/xunit)",
+                    "homepage": null,
                     "id": 67083446,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-24T18:32:32Z",
+                    "open_issues": 0,
                     "owner": "xunit",
                     "repo": "xunit.analyzers",
-                    "stars": 201
+                    "stars": 201,
+                    "topics": [
+                      "roslyn-analyzer",
+                      "unit-testing",
+                      "xunit"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2431,12 +3795,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Friendlier attributes to help categorize your tests",
+                    "homepage": null,
                     "id": 74908045,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-19T14:48:37Z",
+                    "open_issues": 8,
                     "owner": "brendanconnolly",
                     "repo": "Xunit.Categories",
-                    "stars": 144
+                    "stars": 144,
+                    "topics": [
+                      "xunit"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2456,12 +3827,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript. ",
+                "homepage": "http://NSwag.org",
                 "id": 41822320,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-21T10:29:45Z",
+                "open_issues": 2055,
                 "owner": "RicoSuter",
                 "repo": "NSwag",
-                "stars": 7359
+                "stars": 7359,
+                "topics": [
+                  "angular",
+                  "aspnet",
+                  "aspnetcore",
+                  "aurelia",
+                  "codegen",
+                  "csharp",
+                  "dotnet",
+                  "nswag",
+                  "openapi",
+                  "swagger",
+                  "typescript",
+                  "webapi"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             },
@@ -2472,12 +3861,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swagger tools for documenting API's built on ASP.NET Core",
+                "homepage": null,
                 "id": 32304121,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:21:57Z",
+                "open_issues": 177,
                 "owner": "domaindrivendev",
                 "repo": "Swashbuckle.AspNetCore",
-                "stars": 5496
+                "stars": 5496,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -2500,12 +3894,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple .NET logging with fully-structured events",
+                    "homepage": "https://serilog.net",
                     "id": 8198511,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-31T10:58:30Z",
+                    "open_issues": 18,
                     "owner": "serilog",
                     "repo": "serilog",
-                    "stars": 8032
+                    "stars": 8033,
+                    "topics": [
+                      "serilog"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 },
@@ -2516,12 +3917,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NLog - Flexible and Structured Logging for various .NET Platforms",
+                    "homepage": "https://nlog-project.org",
                     "id": 5780416,
                     "language": "C#",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T05:40:17Z",
+                    "open_issues": 52,
                     "owner": "NLog",
                     "repo": "NLog",
-                    "stars": 6544
+                    "stars": 6544,
+                    "topics": [
+                      "aot",
+                      "aot-compatible",
+                      "c-sharp",
+                      "cross-platform",
+                      "csharp",
+                      "dotnet",
+                      "json",
+                      "logger",
+                      "logging",
+                      "logging-library",
+                      "maui",
+                      "mono",
+                      "netstandard",
+                      "netstandard20",
+                      "nlog",
+                      "structured-logging",
+                      "uwp",
+                      "xamarin"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2539,12 +3964,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sentry SDK for .NET",
+                    "homepage": "https://docs.sentry.io/platforms/dotnet",
                     "id": 133374092,
                     "language": "C#",
-                    "last_commit": "2026-08-28T08:20:06Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T03:01:33Z",
+                    "open_issues": 324,
                     "owner": "getsentry",
                     "repo": "sentry-dotnet",
-                    "stars": 770
+                    "stars": 770,
+                    "topics": [
+                      "crash-reporting",
+                      "dotnet",
+                      "hacktoberfest",
+                      "performance-monitoring",
+                      "sdk",
+                      "sentry",
+                      "tag-production",
+                      "team-gdx"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2569,12 +4008,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ".NET Port of Tobias Lütke's Liquid template language.",
+                    "homepage": "https://www.dotliquid.org",
                     "id": 847744,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-02T14:26:26Z",
+                    "open_issues": 63,
                     "owner": "dotliquid",
                     "repo": "dotliquid",
-                    "stars": 1096
+                    "stars": 1096,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2592,12 +4036,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Template engine based on Microsoft's Razor parsing engine for .NET Core",
+                    "homepage": null,
                     "id": 63956962,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-06T00:44:05Z",
+                    "open_issues": 77,
                     "owner": "toddams",
                     "repo": "RazorLight",
-                    "stars": 1661
+                    "stars": 1661,
+                    "topics": [
+                      "dotnet-core",
+                      "netcore",
+                      "razor",
+                      "razor-parsing-engine",
+                      "razorengine",
+                      "razorengine-alternative",
+                      "template-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2615,12 +4072,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open source templating engine based on Microsoft's Razor parsing engine",
+                    "homepage": "http://antaris.github.io/RazorEngine",
                     "id": 1973880,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-05-11T16:32:23Z",
+                    "open_issues": 177,
                     "owner": "Antaris",
                     "repo": "RazorEngine",
-                    "stars": 2159
+                    "stars": 2159,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
                 }
@@ -2640,12 +4102,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A .NET library that makes it easier to create beautiful console applications.",
+                "homepage": "https://spectreconsole.net",
                 "id": 281360869,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:55:15Z",
+                "open_issues": 184,
                 "owner": "spectreconsole",
                 "repo": "spectre.console",
-                "stars": 11599
+                "stars": 11601,
+                "topics": [
+                  "ansi-colors",
+                  "cli-parser",
+                  "console",
+                  "console-tables",
+                  "console-visualization",
+                  "csharp",
+                  "dotnet",
+                  "dotnet-standard",
+                  "opencli"
+                ]
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
             }
@@ -2659,15 +4136,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:33:08.130Z",
+    "last_updated": "2026-08-29T04:49:14.754Z",
     "original_repository_info": {
       "archived": false,
+      "description": "📦 A curated list of awesome and best Nuget packages sorted by most popular ones.",
+      "homepage": null,
       "id": 326010934,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-01-26T23:01:01Z",
+      "open_issues": 1,
       "owner": "mjebrahimi",
       "repo": "Awesome-Nuget-Packages",
-      "stars": 325
+      "stars": 325,
+      "topics": [
+        "asp-net",
+        "asp-net-core",
+        "asp-net-core-mvc",
+        "asp-net-mvc",
+        "aspnet-core",
+        "aspnetcore",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "dotnet",
+        "dotnet-core",
+        "dotnetcore",
+        "netcore",
+        "packages"
+      ]
     },
     "original_repository_sha": "2694fece5a8ca2d36c0fff5a9697c0064df98a07",
     "enhanced_repository": "enhansome/enhansome-Awesome-Nuget-Packages",
