@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "LuckyPennySoftware",
                 "repo": "AutoMapper",
-                "stars": 10192,
+                "stars": 10191,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
@@ -140,7 +140,7 @@
                 "open_issues": 941,
                 "owner": "HangfireIO",
                 "repo": "Hangfire",
-                "stars": 10129,
+                "stars": 10130,
                 "topics": [
                   "background-jobs",
                   "background-thread",
@@ -414,7 +414,7 @@
                     "open_issues": 223,
                     "owner": "npgsql",
                     "repo": "npgsql",
-                    "stars": 3721,
+                    "stars": 3722,
                     "topics": [
                       "c-sharp",
                       "database",
@@ -522,7 +522,7 @@
                     "id": 16157746,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T02:44:25Z",
+                    "last_commit": "2026-08-29T08:45:18Z",
                     "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
@@ -553,7 +553,7 @@
                     "id": 1916228,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T12:42:40Z",
+                    "last_commit": "2026-08-29T06:37:50Z",
                     "open_issues": 398,
                     "owner": "linq2db",
                     "repo": "linq2db",
@@ -796,7 +796,7 @@
                     "id": 16157746,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T02:44:25Z",
+                    "last_commit": "2026-08-29T08:45:18Z",
                     "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
@@ -827,7 +827,7 @@
                     "id": 16157746,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T02:44:25Z",
+                    "last_commit": "2026-08-29T08:45:18Z",
                     "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
@@ -862,7 +862,7 @@
                     "open_issues": 292,
                     "owner": "npgsql",
                     "repo": "efcore.pg",
-                    "stars": 1836,
+                    "stars": 1837,
                     "topics": [
                       "database",
                       "dotnet",
@@ -1050,7 +1050,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:06:38Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "StackExchange",
                 "repo": "StackExchange.Redis",
                 "stars": 6198,
@@ -1255,7 +1255,7 @@
                     "open_issues": 2,
                     "owner": "LuckyPennySoftware",
                     "repo": "MediatR",
-                    "stars": 11858,
+                    "stars": 11857,
                     "topics": [
                       "hacktoberfest"
                     ]
@@ -1350,7 +1350,7 @@
                     "open_issues": 477,
                     "owner": "confluentinc",
                     "repo": "confluent-kafka-dotnet",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": [
                       "c-sharp",
                       "confluent",
@@ -1535,11 +1535,11 @@
                     "id": 27729880,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T03:27:11Z",
-                    "open_issues": 1362,
+                    "last_commit": "2026-08-29T05:18:33Z",
+                    "open_issues": 1359,
                     "owner": "grpc",
                     "repo": "grpc",
-                    "stars": 45271,
+                    "stars": 45272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
@@ -1590,7 +1590,7 @@
                     "id": 117102183,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T21:01:26Z",
+                    "last_commit": "2026-08-29T06:03:35Z",
                     "open_issues": 373,
                     "owner": "ChilliCream",
                     "repo": "graphql-platform",
@@ -2165,7 +2165,7 @@
                     "open_issues": 70,
                     "owner": "nissl-lab",
                     "repo": "npoi",
-                    "stars": 6198,
+                    "stars": 6197,
                     "topics": [
                       "biff",
                       "dotnetcore",
@@ -2231,7 +2231,7 @@
                     "open_issues": 70,
                     "owner": "nissl-lab",
                     "repo": "npoi",
-                    "stars": 6198,
+                    "stars": 6197,
                     "topics": [
                       "biff",
                       "dotnetcore",
@@ -2740,7 +2740,7 @@
                     "open_issues": 75,
                     "owner": "MiniProfiler",
                     "repo": "dotnet",
-                    "stars": 3009,
+                    "stars": 3008,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
@@ -2857,7 +2857,7 @@
                     "language": "C#",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-28T16:06:38Z",
-                    "open_issues": 220,
+                    "open_issues": 221,
                     "owner": "StackExchange",
                     "repo": "StackExchange.Redis",
                     "stars": 6198,
@@ -3033,7 +3033,7 @@
                     "open_issues": 23,
                     "owner": "xunit",
                     "repo": "xunit",
-                    "stars": 4600,
+                    "stars": 4599,
                     "topics": [
                       "c-sharp",
                       "dotnet",
@@ -3535,7 +3535,7 @@
                     "id": 223284876,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T12:20:16Z",
+                    "last_commit": "2026-08-29T08:23:26Z",
                     "open_issues": 1,
                     "owner": "VerifyTests",
                     "repo": "Verify",
@@ -3644,7 +3644,7 @@
                     "open_issues": 189,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34417,
+                    "stars": 34418,
                     "topics": [
                       "dotnet",
                       "java",
@@ -3870,7 +3870,7 @@
                 "open_issues": 177,
                 "owner": "domaindrivendev",
                 "repo": "Swashbuckle.AspNetCore",
-                "stars": 5496,
+                "stars": 5495,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
@@ -3923,7 +3923,7 @@
                     "language": "C#",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-28T05:40:17Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "NLog",
                     "repo": "NLog",
                     "stars": 6544,
@@ -4136,7 +4136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:14.754Z",
+    "last_updated": "2026-08-29T09:19:49.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "📦 A curated list of awesome and best Nuget packages sorted by most popular ones.",
