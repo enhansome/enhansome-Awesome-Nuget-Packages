@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "LuckyPennySoftware",
                 "repo": "AutoMapper",
-                "stars": 10191,
+                "stars": 10192,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
@@ -69,7 +69,7 @@
                 "open_issues": 69,
                 "owner": "riok",
                 "repo": "mapperly",
-                "stars": 4153,
+                "stars": 4155,
                 "topics": [
                   "c-sharp",
                   "csharp",
@@ -165,7 +165,7 @@
                 "id": 1208824,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T19:29:51Z",
+                "last_commit": "2026-08-30T08:12:32Z",
                 "open_issues": 11,
                 "owner": "quartznet",
                 "repo": "quartznet",
@@ -344,7 +344,7 @@
                     "open_issues": 759,
                     "owner": "litedb-org",
                     "repo": "LiteDB",
-                    "stars": 9458,
+                    "stars": 9457,
                     "topics": [
                       "database",
                       "dotnet",
@@ -473,11 +473,11 @@
                     "id": 589349,
                     "language": "C#",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-26T18:25:31Z",
+                    "last_commit": "2026-08-29T14:55:20Z",
                     "open_issues": 219,
                     "owner": "fluentmigrator",
                     "repo": "fluentmigrator",
-                    "stars": 3510,
+                    "stars": 3509,
                     "topics": [
                       "database",
                       "database-schema",
@@ -522,7 +522,7 @@
                     "id": 16157746,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T08:45:18Z",
+                    "last_commit": "2026-08-30T03:26:52Z",
                     "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
@@ -553,11 +553,11 @@
                     "id": 1916228,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T06:37:50Z",
-                    "open_issues": 398,
+                    "last_commit": "2026-08-29T21:27:34Z",
+                    "open_issues": 393,
                     "owner": "linq2db",
                     "repo": "linq2db",
-                    "stars": 3323,
+                    "stars": 3322,
                     "topics": [
                       "access",
                       "bulk-inserts",
@@ -634,7 +634,7 @@
                     "open_issues": 546,
                     "owner": "DapperLib",
                     "repo": "Dapper",
-                    "stars": 18375,
+                    "stars": 18374,
                     "topics": [
                       "ado-net",
                       "dapper",
@@ -796,7 +796,7 @@
                     "id": 16157746,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T08:45:18Z",
+                    "last_commit": "2026-08-30T03:26:52Z",
                     "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
@@ -827,7 +827,7 @@
                     "id": 16157746,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T08:45:18Z",
+                    "last_commit": "2026-08-30T03:26:52Z",
                     "open_issues": 2383,
                     "owner": "dotnet",
                     "repo": "efcore",
@@ -899,7 +899,7 @@
                     "open_issues": 546,
                     "owner": "DapperLib",
                     "repo": "Dapper",
-                    "stars": 18375,
+                    "stars": 18374,
                     "topics": [
                       "ado-net",
                       "dapper",
@@ -924,7 +924,7 @@
                     "open_issues": 546,
                     "owner": "DapperLib",
                     "repo": "Dapper",
-                    "stars": 18375,
+                    "stars": 18374,
                     "topics": [
                       "ado-net",
                       "dapper",
@@ -981,7 +981,7 @@
                     "open_issues": 180,
                     "owner": "sqlkata",
                     "repo": "querybuilder",
-                    "stars": 3379,
+                    "stars": 3380,
                     "topics": [
                       "activerecord",
                       "c-sharp",
@@ -1078,7 +1078,7 @@
                 "open_issues": 73,
                 "owner": "elastic",
                 "repo": "elasticsearch-net",
-                "stars": 3650,
+                "stars": 3649,
                 "topics": [
                   "c-sharp",
                   "client",
@@ -1176,7 +1176,7 @@
                     "id": 78110067,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T02:45:07Z",
+                    "last_commit": "2026-08-30T06:46:18Z",
                     "open_issues": 51,
                     "owner": "TurnerSoftware",
                     "repo": "MongoFramework",
@@ -1255,7 +1255,7 @@
                     "open_issues": 2,
                     "owner": "LuckyPennySoftware",
                     "repo": "MediatR",
-                    "stars": 11857,
+                    "stars": 11858,
                     "topics": [
                       "hacktoberfest"
                     ]
@@ -1274,11 +1274,11 @@
                     "id": 1223855,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T20:14:19Z",
-                    "open_issues": 90,
+                    "last_commit": "2026-08-29T23:33:48Z",
+                    "open_issues": 88,
                     "owner": "BrighterCommand",
                     "repo": "Brighter",
-                    "stars": 2472,
+                    "stars": 2473,
                     "topics": [
                       "asynchronously",
                       "brighter",
@@ -1407,7 +1407,7 @@
                     "open_issues": 1,
                     "owner": "MassTransit",
                     "repo": "MassTransit",
-                    "stars": 7798,
+                    "stars": 7799,
                     "topics": [
                       "azure-service-bus",
                       "c-sharp",
@@ -1536,10 +1536,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-29T05:18:33Z",
-                    "open_issues": 1359,
+                    "open_issues": 1358,
                     "owner": "grpc",
                     "repo": "grpc",
-                    "stars": 45272,
+                    "stars": 45280,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
@@ -1567,7 +1567,7 @@
                     "open_issues": 135,
                     "owner": "graphql-dotnet",
                     "repo": "graphql-dotnet",
-                    "stars": 5992,
+                    "stars": 5991,
                     "topics": [
                       "api",
                       "dotnet-core",
@@ -1590,8 +1590,8 @@
                     "id": 117102183,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T06:03:35Z",
-                    "open_issues": 373,
+                    "last_commit": "2026-08-30T01:39:06Z",
+                    "open_issues": 374,
                     "owner": "ChilliCream",
                     "repo": "graphql-platform",
                     "stars": 5752,
@@ -1693,8 +1693,8 @@
                 "id": 11591313,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-25T12:11:16Z",
-                "open_issues": 3,
+                "last_commit": "2026-08-29T13:48:07Z",
+                "open_issues": 4,
                 "owner": "reactiveui",
                 "repo": "refit",
                 "stars": 9563,
@@ -2072,7 +2072,7 @@
                     "open_issues": 118,
                     "owner": "icsharpcode",
                     "repo": "SharpZipLib",
-                    "stars": 3932,
+                    "stars": 3931,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
@@ -2165,7 +2165,7 @@
                     "open_issues": 70,
                     "owner": "nissl-lab",
                     "repo": "npoi",
-                    "stars": 6197,
+                    "stars": 6198,
                     "topics": [
                       "biff",
                       "dotnetcore",
@@ -2231,7 +2231,7 @@
                     "open_issues": 70,
                     "owner": "nissl-lab",
                     "repo": "npoi",
-                    "stars": 6197,
+                    "stars": 6198,
                     "topics": [
                       "biff",
                       "dotnetcore",
@@ -2568,8 +2568,8 @@
                     "id": 55794557,
                     "language": "C#",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-11T09:51:10Z",
-                    "open_issues": 61,
+                    "last_commit": "2026-08-30T07:58:52Z",
+                    "open_issues": 60,
                     "owner": "zzzprojects",
                     "repo": "System.Linq.Dynamic.Core",
                     "stars": 1711,
@@ -2642,7 +2642,7 @@
                 "open_issues": 3,
                 "owner": "FluentValidation",
                 "repo": "FluentValidation",
-                "stars": 9753,
+                "stars": 9751,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:33:08.130Z"
@@ -2670,7 +2670,7 @@
                 "open_issues": 6,
                 "owner": "AngleSharp",
                 "repo": "AngleSharp",
-                "stars": 5531,
+                "stars": 5530,
                 "topics": [
                   "angle-bracket",
                   "anglesharp",
@@ -3033,7 +3033,7 @@
                     "open_issues": 23,
                     "owner": "xunit",
                     "repo": "xunit",
-                    "stars": 4599,
+                    "stars": 4598,
                     "topics": [
                       "c-sharp",
                       "dotnet",
@@ -3055,8 +3055,8 @@
                     "id": 13692183,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-27T19:45:41Z",
-                    "open_issues": 262,
+                    "last_commit": "2026-08-29T21:07:49Z",
+                    "open_issues": 264,
                     "owner": "nunit",
                     "repo": "nunit",
                     "stars": 2622,
@@ -3164,7 +3164,7 @@
                     "open_issues": 21,
                     "owner": "devlooped",
                     "repo": "moq",
-                    "stars": 6403,
+                    "stars": 6402,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
@@ -3219,7 +3219,7 @@
                     "open_issues": 4,
                     "owner": "FakeItEasy",
                     "repo": "FakeItEasy",
-                    "stars": 1848,
+                    "stars": 1849,
                     "topics": [
                       "dotnet",
                       "dotnet-core",
@@ -3253,7 +3253,7 @@
                     "open_issues": 58,
                     "owner": "AutoFixture",
                     "repo": "AutoFixture",
-                    "stars": 3534,
+                    "stars": 3535,
                     "topics": [
                       "assertion-library",
                       "assertions",
@@ -3350,7 +3350,7 @@
                     "open_issues": 16,
                     "owner": "richardszalay",
                     "repo": "mockhttp",
-                    "stars": 1761,
+                    "stars": 1762,
                     "topics": [
                       "dotnet",
                       "dotnetcore",
@@ -3535,11 +3535,11 @@
                     "id": 223284876,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-08-29T08:23:26Z",
+                    "last_commit": "2026-08-30T02:13:33Z",
                     "open_issues": 1,
                     "owner": "VerifyTests",
                     "repo": "Verify",
-                    "stars": 3466,
+                    "stars": 3467,
                     "topics": [
                       "assertion-library",
                       "snapshot",
@@ -3640,11 +3640,11 @@
                     "id": 7613257,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T00:51:27Z",
-                    "open_issues": 189,
+                    "last_commit": "2026-08-29T11:08:48Z",
+                    "open_issues": 191,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34418,
+                    "stars": 34424,
                     "topics": [
                       "dotnet",
                       "java",
@@ -3745,7 +3745,7 @@
                     "open_issues": 4,
                     "owner": "danielpalme",
                     "repo": "ReportGenerator",
-                    "stars": 3092,
+                    "stars": 3093,
                     "topics": [
                       "code-coverage",
                       "dotnet-core",
@@ -3779,7 +3779,7 @@
                     "open_issues": 0,
                     "owner": "xunit",
                     "repo": "xunit.analyzers",
-                    "stars": 201,
+                    "stars": 200,
                     "topics": [
                       "roslyn-analyzer",
                       "unit-testing",
@@ -3836,7 +3836,7 @@
                 "open_issues": 2055,
                 "owner": "RicoSuter",
                 "repo": "NSwag",
-                "stars": 7359,
+                "stars": 7360,
                 "topics": [
                   "angular",
                   "aspnet",
@@ -3903,7 +3903,7 @@
                     "open_issues": 18,
                     "owner": "serilog",
                     "repo": "serilog",
-                    "stars": 8033,
+                    "stars": 8034,
                     "topics": [
                       "serilog"
                     ]
@@ -3922,11 +3922,11 @@
                     "id": 5780416,
                     "language": "C#",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-08-28T05:40:17Z",
-                    "open_issues": 53,
+                    "last_commit": "2026-08-30T07:49:55Z",
+                    "open_issues": 52,
                     "owner": "NLog",
                     "repo": "NLog",
-                    "stars": 6544,
+                    "stars": 6545,
                     "topics": [
                       "aot",
                       "aot-compatible",
@@ -4045,7 +4045,7 @@
                     "open_issues": 77,
                     "owner": "toddams",
                     "repo": "RazorLight",
-                    "stars": 1661,
+                    "stars": 1660,
                     "topics": [
                       "dotnet-core",
                       "netcore",
@@ -4081,7 +4081,7 @@
                     "open_issues": 177,
                     "owner": "Antaris",
                     "repo": "RazorEngine",
-                    "stars": 2159,
+                    "stars": 2158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
@@ -4111,7 +4111,7 @@
                 "open_issues": 184,
                 "owner": "spectreconsole",
                 "repo": "spectre.console",
-                "stars": 11601,
+                "stars": 11600,
                 "topics": [
                   "ansi-colors",
                   "cli-parser",
@@ -4136,7 +4136,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:19:49.900Z",
+    "last_updated": "2026-08-30T08:30:34.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "📦 A curated list of awesome and best Nuget packages sorted by most popular ones.",
