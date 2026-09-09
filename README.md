@@ -49,18 +49,18 @@ If you liked this repository or find it useful, please give it a star. Thanks!
   [![GitHub Stars](https://img.shields.io/github/stars/AutoMapper/AutoMapper?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/AutoMapper/AutoMapper) ⭐ 10,189 | 🐛 12 | 🌐 C# | 📅 2026-09-04
   [![NuGet Downloads](https://img.shields.io/nuget/dt/AutoMapper?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/AutoMapper)
 
-* [**Maspter**](https://github.com/MapsterMapper/Mapster) ⭐ 5,169 | 🐛 81 | 🌐 C# | 📅 2026-08-25
+* [**Maspter**](https://github.com/MapsterMapper/Mapster) ⭐ 5,168 | 🐛 81 | 🌐 C# | 📅 2026-08-25
 
   > A fast, fun and stimulating object to object Mapper
 
-  [![GitHub Stars](https://img.shields.io/github/stars/MapsterMapper/Mapster?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/MapsterMapper/Mapster) ⭐ 5,169 | 🐛 81 | 🌐 C# | 📅 2026-08-25
+  [![GitHub Stars](https://img.shields.io/github/stars/MapsterMapper/Mapster?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/MapsterMapper/Mapster) ⭐ 5,168 | 🐛 81 | 🌐 C# | 📅 2026-08-25
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Mapster?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Mapster)
 
-* [**Mapperly**](https://github.com/riok/mapperly) ⭐ 4,161 | 🐛 66 | 🌐 C# | 📅 2026-09-07
+* [**Mapperly**](https://github.com/riok/mapperly) ⭐ 4,164 | 🐛 70 | 🌐 C# | 📅 2026-09-09
 
   > A .NET source generator for generating object mappings. No runtime reflection.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/riok/mapperly?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/riok/mapperly) ⭐ 4,161 | 🐛 66 | 🌐 C# | 📅 2026-09-07
+  [![GitHub Stars](https://img.shields.io/github/stars/riok/mapperly?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/riok/mapperly) ⭐ 4,164 | 🐛 70 | 🌐 C# | 📅 2026-09-09
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Riok.Mapperly?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Riok.Mapperly)
 
 ### IoC
@@ -81,11 +81,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
   [![GitHub Stars](https://img.shields.io/github/stars/HangfireIO/Hangfire?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/HangfireIO/Hangfire) ⭐ 10,135 | 🐛 942 | 🌐 C# | 📅 2026-08-28
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Hangfire?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Hangfire)
 
-* [**Quartz.NET**](https://github.com/quartznet/quartznet) ⭐ 7,075 | 🐛 12 | 🌐 C# | 📅 2026-09-07
+* [**Quartz.NET**](https://github.com/quartznet/quartznet) ⭐ 7,077 | 🐛 6 | 🌐 C# | 📅 2026-09-09
 
   > Quartz Enterprise Scheduler .NET
 
-  [![GitHub Stars](https://img.shields.io/github/stars/quartznet/quartznet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/quartznet/quartznet) ⭐ 7,075 | 🐛 12 | 🌐 C# | 📅 2026-09-07
+  [![GitHub Stars](https://img.shields.io/github/stars/quartznet/quartznet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/quartznet/quartznet) ⭐ 7,077 | 🐛 6 | 🌐 C# | 📅 2026-09-09
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Quartz?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Quartz)
 
 * [**Coravel**](https://github.com/jamesmh/coravel) ⭐ 4,289 | 🐛 84 | 🌐 C# | 📅 2025-07-20
@@ -98,19 +98,19 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 ### Serialization
 
 * Json Serializer
-  * [**Newtonsoft.Json (Json.NET)**](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,315 | 🐛 826 | 🌐 C# | 📅 2026-08-13
+  * [**Newtonsoft.Json (Json.NET)**](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,314 | 🐛 826 | 🌐 C# | 📅 2026-08-13
 
     > Json .NET is a popular high-performance JSON framework for .NET
 
-    [![GitHub Stars](https://img.shields.io/github/stars/JamesNK/Newtonsoft.Json?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,315 | 🐛 826 | 🌐 C# | 📅 2026-08-13
+    [![GitHub Stars](https://img.shields.io/github/stars/JamesNK/Newtonsoft.Json?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/JamesNK/Newtonsoft.Json) ⭐ 11,314 | 🐛 826 | 🌐 C# | 📅 2026-08-13
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Newtonsoft.Json?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Newtonsoft.Json)
 
 * Binary Serializer
-  * [**MessagePack**](https://github.com/neuecc/MessagePack-CSharp) ⭐ 6,773 | 🐛 146 | 🌐 C# | 📅 2026-09-07
+  * [**MessagePack**](https://github.com/neuecc/MessagePack-CSharp) ⭐ 6,774 | 🐛 146 | 🌐 C# | 📅 2026-09-07
 
     > Extremely Fast MessagePack (MsgPack) Serializer for .NET
 
-    [![GitHub Stars](https://img.shields.io/github/stars/neuecc/MessagePack-CSharp?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/neuecc/MessagePack-CSharp) ⭐ 6,773 | 🐛 146 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/neuecc/MessagePack-CSharp?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/neuecc/MessagePack-CSharp) ⭐ 6,774 | 🐛 146 | 🌐 C# | 📅 2026-09-07
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MessagePack?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MessagePack)
 
   * [**Protobuf-Net**](https://github.com/protobuf-net/protobuf-net) ⭐ 4,972 | 🐛 537 | 🌐 C# | 📅 2026-09-04
@@ -137,26 +137,26 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![GitHub Stars](https://img.shields.io/github/stars/mbdavid/litedb?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/mbdavid/litedb) ⭐ 9,462 | 🐛 759 | 🌐 C# | 📅 2026-08-21
     [![NuGet Downloads](https://img.shields.io/nuget/dt/LiteDB?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/LiteDB)
 
-  * [**RavenDB.Client**](https://github.com/ravendb/ravendb) ⭐ 3,998 | 🐛 74 | 🌐 C# | 📅 2026-09-07
+  * [**RavenDB.Client**](https://github.com/ravendb/ravendb) ⭐ 3,998 | 🐛 76 | 🌐 C# | 📅 2026-09-09
 
     > An ACID NoSQL Document Database.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/ravendb/ravendb?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ravendb/ravendb) ⭐ 3,998 | 🐛 74 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/ravendb/ravendb?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ravendb/ravendb) ⭐ 3,998 | 🐛 76 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/RavenDB.Client?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/RavenDB.Client)
 
 * Database Connector
-  * [**Npgsql**](https://github.com/npgsql/Npgsql) ⭐ 3,725 | 🐛 224 | 🌐 C# | 📅 2026-08-28
+  * [**Npgsql**](https://github.com/npgsql/Npgsql) ⭐ 3,725 | 🐛 225 | 🌐 C# | 📅 2026-09-08
 
     > Npgsql is the .NET data provider for PostgreSQL.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/npgsql/Npgsql?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/npgsql/Npgsql) ⭐ 3,725 | 🐛 224 | 🌐 C# | 📅 2026-08-28
+    [![GitHub Stars](https://img.shields.io/github/stars/npgsql/Npgsql?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/npgsql/Npgsql) ⭐ 3,725 | 🐛 225 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Npgsql?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Npgsql)
 
-  * [**MongoDB.Driver**](https://github.com/mongodb/mongo-csharp-driver) ⭐ 3,242 | 🐛 16 | 🌐 C# | 📅 2026-09-02
+  * [**MongoDB.Driver**](https://github.com/mongodb/mongo-csharp-driver) ⭐ 3,242 | 🐛 18 | 🌐 C# | 📅 2026-09-02
 
     > The official MongoDB C#/.NET Driver provides asynchronous interaction with MongoDB.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-driver?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/mongodb/mongo-csharp-driver) ⭐ 3,242 | 🐛 16 | 🌐 C# | 📅 2026-09-02
+    [![GitHub Stars](https://img.shields.io/github/stars/mongodb/mongo-csharp-driver?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/mongodb/mongo-csharp-driver) ⭐ 3,242 | 🐛 18 | 🌐 C# | 📅 2026-09-02
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MongoDB.Driver?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MongoDB.Driver)
 
   * [**MySql.Data**](https://dev.mysql.com/downloads)
@@ -176,18 +176,18 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 ### ORM and Micro-ORM
 
 * ORM
-  * [**Entity Framework Core**](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,380 | 🌐 C# | 📅 2026-09-08
+  * [**Entity Framework Core**](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,381 | 🌐 C# | 📅 2026-09-09
 
     > EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/dotnet/efcore?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,380 | 🌐 C# | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/dotnet/efcore?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,381 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.EntityFrameworkCore?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore)
 
-  * [**linq2db**](https://github.com/linq2db/linq2db) ⭐ 3,325 | 🐛 393 | 🌐 C# | 📅 2026-09-07
+  * [**linq2db**](https://github.com/linq2db/linq2db) ⭐ 3,327 | 🐛 385 | 🌐 C# | 📅 2026-09-09
 
     > Linq to database provider.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/linq2db/linq2db?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/linq2db/linq2db) ⭐ 3,325 | 🐛 393 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/linq2db/linq2db?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/linq2db/linq2db) ⭐ 3,327 | 🐛 385 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/linq2db?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/linq2db)
 
   * [**Entity Framework**](https://github.com/dotnet/ef6) ⭐ 1,450 | 🐛 4 | 🌐 C# | 📅 2026-09-07
@@ -235,23 +235,23 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/EFCoreSecondLevelCacheInterceptor?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/EFCoreSecondLevelCacheInterceptor)
 
 * Entity Framework Core Providers
-  * [**Microsoft.EntityFrameworkCore.SqlServer**](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,380 | 🌐 C# | 📅 2026-09-08
+  * [**Microsoft.EntityFrameworkCore.SqlServer**](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,381 | 🌐 C# | 📅 2026-09-09
 
     > Microsoft SQL Server database provider for Entity Framework Core.
 
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.EntityFrameworkCore.SqlServer?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer)
 
-  * [**Microsoft.EntityFrameworkCore.InMemory**](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,380 | 🌐 C# | 📅 2026-09-08
+  * [**Microsoft.EntityFrameworkCore.InMemory**](https://github.com/dotnet/efcore) ⭐ 14,789 | 🐛 2,381 | 🌐 C# | 📅 2026-09-09
 
     > In-memory database provider for Entity Framework Core (to be used for testing purposes).
 
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.EntityFrameworkCore.InMemory?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory)
 
-  * [**Npgsql.EntityFrameworkCore.PostgreSQL**](https://github.com/npgsql/efcore.pg) ⭐ 1,837 | 🐛 297 | 🌐 C# | 📅 2026-09-02
+  * [**Npgsql.EntityFrameworkCore.PostgreSQL**](https://github.com/npgsql/efcore.pg) ⭐ 1,837 | 🐛 297 | 🌐 C# | 📅 2026-09-08
 
     > Entity Framework Core provider for PostgreSQL.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/npgsql/efcore.pg?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/npgsql/efcore.pg) ⭐ 1,837 | 🐛 297 | 🌐 C# | 📅 2026-09-02
+    [![GitHub Stars](https://img.shields.io/github/stars/npgsql/efcore.pg?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/npgsql/efcore.pg) ⭐ 1,837 | 🐛 297 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Npgsql.EntityFrameworkCore.PostgreSQL?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL)
 
   * [**MySql.Data.EntityFrameworkCore**](https://dev.mysql.com/doc/connector-net/en/connector-net-entityframework-core.html)
@@ -273,11 +273,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Dapper.SqlBuilder?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Dapper.SqlBuilder)
 
-  * [**Dapper.FluentMap**](https://github.com/henkmollema/Dapper-FluentMap) ⭐ 443 | 🐛 1 | 🌐 C# | 📅 2026-09-08
+  * [**Dapper.FluentMap**](https://github.com/henkmollema/Dapper-FluentMap) ⭐ 443 | 🐛 25 | 🌐 C# | 📅 2026-09-09
 
     > Simple API to fluently map POCO properties to database columns when using Dapper.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/henkmollema/Dapper-FluentMap?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/henkmollema/Dapper-FluentMap) ⭐ 443 | 🐛 1 | 🌐 C# | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/henkmollema/Dapper-FluentMap?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/henkmollema/Dapper-FluentMap) ⭐ 443 | 🐛 25 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Dapper.FluentMap?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Dapper.FluentMap)
 
 * SQL Query Builder
@@ -297,18 +297,18 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 
 ### NoSQL
 
-* [**StackExchange.Redis**](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-06
+* [**StackExchange.Redis**](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-08
 
   > High performance Redis client, incorporating both synchronous and asynchronous usage.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-06
+  [![GitHub Stars](https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-08
   [![NuGet Downloads](https://img.shields.io/nuget/dt/StackExchange.Redis?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/StackExchange.Redis)
 
-* [**Elastic**](https://github.com/elastic/elasticsearch-net) ⭐ 3,647 | 🐛 73 | 🌐 C# | 📅 2026-09-04
+* [**Elastic**](https://github.com/elastic/elasticsearch-net) ⭐ 3,647 | 🐛 74 | 🌐 C# | 📅 2026-09-08
 
   > Exposes all the Elasticsearch API endpoints but leaves you in control of building the request and response bodies.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/elastic/elasticsearch-net?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/elastic/elasticsearch-net) ⭐ 3,647 | 🐛 73 | 🌐 C# | 📅 2026-09-04
+  [![GitHub Stars](https://img.shields.io/github/stars/elastic/elasticsearch-net?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/elastic/elasticsearch-net) ⭐ 3,647 | 🐛 74 | 🌐 C# | 📅 2026-09-08
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Elasticsearch.Net?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Elasticsearch.Net)
 
 ### MongoDb
@@ -329,11 +329,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MongoDbGenericRepository?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MongoDbGenericRepository)
 
 * MongoDb Framework
-  * [**MongoFramework**](https://github.com/TurnerSoftware/MongoFramework) ⭐ 399 | 🐛 51 | 🌐 C# | 📅 2026-09-03
+  * [**MongoFramework**](https://github.com/TurnerSoftware/MongoFramework) ⭐ 399 | 🐛 51 | 🌐 C# | 📅 2026-09-08
 
     > An "Entity Framework"-like interface for MongoDB.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/TurnerSoftware/MongoFramework?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/TurnerSoftware/MongoFramework) ⭐ 399 | 🐛 51 | 🌐 C# | 📅 2026-09-03
+    [![GitHub Stars](https://img.shields.io/github/stars/TurnerSoftware/MongoFramework?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/TurnerSoftware/MongoFramework) ⭐ 399 | 🐛 51 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MongoFramework?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MongoFramework)
 
 * MongoDb Identity Integration
@@ -354,33 +354,33 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 ### Messaging and Queue
 
 * Commands/Events Dispatcher
-  * [**MediatR**](https://github.com/jbogard/MediatR) ⭐ 11,858 | 🐛 0 | 🌐 C# | 📅 2026-07-02
+  * [**MediatR**](https://github.com/jbogard/MediatR) ⭐ 11,857 | 🐛 0 | 🌐 C# | 📅 2026-07-02
 
     > Simple, unambitious mediator implementation in .NET
 
-    [![GitHub Stars](https://img.shields.io/github/stars/jbogard/MediatR?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jbogard/MediatR) ⭐ 11,858 | 🐛 0 | 🌐 C# | 📅 2026-07-02
+    [![GitHub Stars](https://img.shields.io/github/stars/jbogard/MediatR?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jbogard/MediatR) ⭐ 11,857 | 🐛 0 | 🌐 C# | 📅 2026-07-02
     [![NuGet Downloads](https://img.shields.io/nuget/dt/mediatr?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/mediatr)
 
-  * [**Brighter**](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 106 | 🌐 C# | 📅 2026-09-07
+  * [**Brighter**](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 107 | 🌐 C# | 📅 2026-09-08
 
     > The Command Dispatcher pattern is an addition to the Command design pattern that decouples the dispatcher for a service from its execution.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/BrighterCommand/Brighter?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 106 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/BrighterCommand/Brighter?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 107 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/paramore.brighter?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/paramore.brighter)
 
 * Message Bus
-  * [**RabbitMQ.Client**](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,282 | 🐛 82 | 🌐 C# | 📅 2026-09-07
+  * [**RabbitMQ.Client**](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,282 | 🐛 80 | 🌐 C# | 📅 2026-09-08
 
     > RabbitMQ .NET client
 
-    [![GitHub Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-dotnet-client?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,282 | 🐛 82 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-dotnet-client?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,282 | 🐛 80 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/RabbitMQ.Client?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/RabbitMQ.Client)
 
-  * [**Confluent.Kafka**](https://github.com/confluentinc/confluent-kafka-dotnet) ⭐ 273 | 🐛 476 | 🌐 C# | 📅 2026-09-08
+  * [**Confluent.Kafka**](https://github.com/confluentinc/confluent-kafka-dotnet) ⭐ 273 | 🐛 476 | 🌐 C# | 📅 2026-09-09
 
     > Confluent's Apache Kafka .NET client.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/confluentinc/confluent-kafka-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/confluentinc/confluent-kafka-dotnet) ⭐ 273 | 🐛 476 | 🌐 C# | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/confluentinc/confluent-kafka-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/confluentinc/confluent-kafka-dotnet) ⭐ 273 | 🐛 476 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Confluent.Kafka?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Confluent.Kafka)
 
   * [**kafka-sharp**](https://github.com/criteo/kafka-sharp) ⚠️ Archived
@@ -391,28 +391,28 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/kafka-sharp?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/kafka-sharp)
 
 * Service Bus
-  * [**MassTransit**](https://github.com/MassTransit/MassTransit) ⭐ 7,801 | 🐛 1 | 🌐 C# | 📅 2026-06-04
+  * [**MassTransit**](https://github.com/MassTransit/MassTransit) ⭐ 7,800 | 🐛 1 | 🌐 C# | 📅 2026-06-04
 
     > MassTransit is a free, open-source distributed application framework for .NET. MassTransit makes it easy to create applications and services that leverage message-based, loosely-coupled asynchronous communication for higher availability, reliability, and scalability.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/MassTransit/MassTransit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/MassTransit/MassTransit) ⭐ 7,801 | 🐛 1 | 🌐 C# | 📅 2026-06-04
+    [![GitHub Stars](https://img.shields.io/github/stars/MassTransit/MassTransit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/MassTransit/MassTransit) ⭐ 7,800 | 🐛 1 | 🌐 C# | 📅 2026-06-04
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MassTransit?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MassTransit)
 
-  * [**NServiceBus**](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 288 | 🌐 C# | 📅 2026-09-06
+  * [**NServiceBus**](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 291 | 🌐 C# | 📅 2026-09-09
 
     > MassTransit is a free, open-source distributed application framework for .NET. MassTransit makes it easy to create applications and services that leverage message-based, loosely-coupled asynchronous communication for higher availability, reliability, and scalability.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/Particular/NServiceBus?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 288 | 🌐 C# | 📅 2026-09-06
+    [![GitHub Stars](https://img.shields.io/github/stars/Particular/NServiceBus?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 291 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NServiceBus?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NServiceBus)
 
 ### API and RPC
 
 * API Frameworks
-  * [**ServiceStack**](https://github.com/ServiceStack/ServiceStack) ⭐ 5,496 | 🐛 35 | 🌐 C# | 📅 2026-09-08
+  * [**ServiceStack**](https://github.com/ServiceStack/ServiceStack) ⭐ 5,496 | 🐛 35 | 🌐 C# | 📅 2026-09-09
 
     > ServiceStack is a simple and fast alternative to WCF, MVC and Web API in one cohesive framework for all your services and web apps that's intuitive and Easy to use!
 
-    [![GitHub Stars](https://img.shields.io/github/stars/ServiceStack/ServiceStack?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ServiceStack/ServiceStack) ⭐ 5,496 | 🐛 35 | 🌐 C# | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/ServiceStack/ServiceStack?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ServiceStack/ServiceStack) ⭐ 5,496 | 🐛 35 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/ServiceStack?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/ServiceStack)
 
   * [**Microsoft.OData.Core**](https://github.com/OData/odata.net) ⭐ 732 | 🐛 512 | 🌐 C# | 📅 2026-09-02
@@ -423,26 +423,26 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.OData.Core?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Microsoft.OData.Core)
 
 * gRPC
-  * [**Grpc.Core**](https://github.com/grpc/grpc) ⭐ 45,307 | 🐛 1,350 | 🌐 C++ | 📅 2026-09-08
+  * [**Grpc.Core**](https://github.com/grpc/grpc) ⭐ 45,304 | 🐛 1,349 | 🌐 C++ | 📅 2026-09-09
 
     > A C# implementation of gRPC based on the native gRPC Core library.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/grpc/grpc?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/grpc/grpc) ⭐ 45,307 | 🐛 1,350 | 🌐 C++ | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/grpc/grpc?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/grpc/grpc) ⭐ 45,304 | 🐛 1,349 | 🌐 C++ | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Grpc.Core?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Grpc.Core)
 
 * GraphQL
-  * [**GraphQL for .NET**](https://github.com/graphql-dotnet/graphql-dotnet) ⭐ 5,990 | 🐛 140 | 🌐 C# | 📅 2026-09-06
+  * [**GraphQL for .NET**](https://github.com/graphql-dotnet/graphql-dotnet) ⭐ 5,990 | 🐛 142 | 🌐 C# | 📅 2026-09-08
 
     > An implementation of Facebook's GraphQL in .NET.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/graphql-dotnet/graphql-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/graphql-dotnet/graphql-dotnet) ⭐ 5,990 | 🐛 140 | 🌐 C# | 📅 2026-09-06
+    [![GitHub Stars](https://img.shields.io/github/stars/graphql-dotnet/graphql-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/graphql-dotnet/graphql-dotnet) ⭐ 5,990 | 🐛 142 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/GraphQL?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/GraphQL/)
 
-  * [**HotChocolate**](https://github.com/ChilliCream/hotchocolate) ⭐ 5,756 | 🐛 371 | 🌐 C# | 📅 2026-09-08
+  * [**HotChocolate**](https://github.com/ChilliCream/hotchocolate) ⭐ 5,755 | 🐛 372 | 🌐 C# | 📅 2026-09-09
 
     > The Hot Chocolate GraphQL query execution engine and query validation.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/ChilliCream/hotchocolate?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ChilliCream/hotchocolate) ⭐ 5,756 | 🐛 371 | 🌐 C# | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/ChilliCream/hotchocolate?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ChilliCream/hotchocolate) ⭐ 5,755 | 🐛 372 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/HotChocolate?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/HotChocolate)
 
 * WCF - SOAP
@@ -462,11 +462,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
   [![GitHub Stars](https://img.shields.io/github/stars/restsharp/RestSharp?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/restsharp/RestSharp) ⭐ 9,826 | 🐛 37 | 🌐 C# | 📅 2026-09-07
   [![NuGet Downloads](https://img.shields.io/nuget/dt/RestSharp?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/RestSharp)
 
-* [**Refit**](https://github.com/reactiveui/refit) ⭐ 9,567 | 🐛 2 | 🌐 C# | 📅 2026-09-05
+* [**Refit**](https://github.com/reactiveui/refit) ⭐ 9,567 | 🐛 3 | 🌐 C# | 📅 2026-09-08
 
   > The automatic type-safe REST library for Xamarin and .NET
 
-  [![GitHub Stars](https://img.shields.io/github/stars/reactiveui/refit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/reactiveui/refit) ⭐ 9,567 | 🐛 2 | 🌐 C# | 📅 2026-09-05
+  [![GitHub Stars](https://img.shields.io/github/stars/reactiveui/refit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/reactiveui/refit) ⭐ 9,567 | 🐛 3 | 🌐 C# | 📅 2026-09-08
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Refit?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Refit)
 
 * [**RestEase**](https://github.com/canton7/RestEase) ⭐ 1,116 | 🐛 15 | 🌐 C# | 📅 2023-12-10
@@ -479,11 +479,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 ### Mail and SMTP Server
 
 * Mail
-  * [**MailKit**](https://github.com/jstedfast/MailKit) ⭐ 6,856 | 🐛 9 | 🌐 C# | 📅 2026-08-19
+  * [**MailKit**](https://github.com/jstedfast/MailKit) ⭐ 6,857 | 🐛 10 | 🌐 C# | 📅 2026-08-19
 
     > MailKit is an Open Source cross-platform .NET mail-client library that is based on MimeKit and optimized for mobile devices.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/jstedfast/MailKit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jstedfast/MailKit) ⭐ 6,856 | 🐛 9 | 🌐 C# | 📅 2026-08-19
+    [![GitHub Stars](https://img.shields.io/github/stars/jstedfast/MailKit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jstedfast/MailKit) ⭐ 6,857 | 🐛 10 | 🌐 C# | 📅 2026-08-19
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MailKit?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MailKit)
 
 * Mail Service SDK
@@ -567,11 +567,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 ### Compression
 
 * Zip Compression
-  * [**SharpZipLib**](https://github.com/icsharpcode/SharpZipLib) ⭐ 3,931 | 🐛 118 | 🌐 C# | 📅 2024-09-03
+  * [**SharpZipLib**](https://github.com/icsharpcode/SharpZipLib) ⭐ 3,932 | 🐛 118 | 🌐 C# | 📅 2024-09-03
 
     > \#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/icsharpcode/SharpZipLib?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/icsharpcode/SharpZipLib) ⭐ 3,931 | 🐛 118 | 🌐 C# | 📅 2024-09-03
+    [![GitHub Stars](https://img.shields.io/github/stars/icsharpcode/SharpZipLib?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/icsharpcode/SharpZipLib) ⭐ 3,932 | 🐛 118 | 🌐 C# | 📅 2024-09-03
     [![NuGet Downloads](https://img.shields.io/nuget/dt/SharpZipLib?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/SharpZipLib)
 
 * Compression Algorithms
@@ -593,26 +593,26 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/CsvHelper?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/CsvHelper)
 
 * Excel
-  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,200 | 🐛 63 | 🌐 C# | 📅 2026-09-01
+  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,199 | 🐛 63 | 🌐 C# | 📅 2026-09-01
 
     > a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,200 | 🐛 63 | 🌐 C# | 📅 2026-09-01
+    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,199 | 🐛 63 | 🌐 C# | 📅 2026-09-01
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NPOI?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NPOI)
 
-  * [**EPPlus**](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,035 | 🐛 93 | 🌐 C# | 📅 2026-09-07
+  * [**EPPlus**](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,035 | 🐛 94 | 🌐 C# | 📅 2026-09-09
 
     > Create advanced Excel spreadsheets using .NET
 
-    [![GitHub Stars](https://img.shields.io/github/stars/EPPlusSoftware/EPPlus?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,035 | 🐛 93 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/EPPlusSoftware/EPPlus?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,035 | 🐛 94 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/EPPlus?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/EPPlus)
 
 * Word
-  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,200 | 🐛 63 | 🌐 C# | 📅 2026-09-01
+  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,199 | 🐛 63 | 🌐 C# | 📅 2026-09-01
 
     > a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,200 | 🐛 63 | 🌐 C# | 📅 2026-09-01
+    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,199 | 🐛 63 | 🌐 C# | 📅 2026-09-01
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NPOI?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NPOI)
 
   * [**DocX**](https://github.com/xceedsoftware/DocX) ⭐ 1,922 | 🐛 315 | 🌐 C# | 📅 2026-06-11
@@ -631,11 +631,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
       [![GitHub Stars](https://img.shields.io/github/stars/FastReports/FastReport?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/FastReports/FastReport) ⭐ 3,086 | 🐛 24 | 🌐 C# | 📅 2026-08-31
       [![NuGet Downloads](https://img.shields.io/nuget/dt/FastReport.OpenSource?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/FastReport.OpenSource/)
 
-    * [**PdfReport.Core**](https://github.com/VahidN/PdfReport.Core) ⭐ 372 | 🐛 7 | 🌐 C# | 📅 2026-09-03
+    * [**PdfReport.Core**](https://github.com/VahidN/PdfReport.Core) ⭐ 372 | 🐛 7 | 🌐 C# | 📅 2026-09-09
 
       > PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core libraries
 
-      [![GitHub Stars](https://img.shields.io/github/stars/VahidN/PdfReport.Core?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/VahidN/PdfReport.Core) ⭐ 372 | 🐛 7 | 🌐 C# | 📅 2026-09-03
+      [![GitHub Stars](https://img.shields.io/github/stars/VahidN/PdfReport.Core?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/VahidN/PdfReport.Core) ⭐ 372 | 🐛 7 | 🌐 C# | 📅 2026-09-09
       [![NuGet Downloads](https://img.shields.io/nuget/dt/PdfRpt.Core?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/PdfRpt.Core/)
 
   * Renderers
@@ -647,11 +647,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
       [![NuGet Downloads](https://img.shields.io/nuget/dt/DinkToPdf?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/DinkToPdf)
 
   * Create, Edit and Extract
-    * [**itext7**](https://github.com/itext/itext7-dotnet) ⭐ 1,942 | 🐛 14 | 🌐 C# | 📅 2026-09-03
+    * [**itext7**](https://github.com/itext/itext7-dotnet) ⭐ 1,942 | 🐛 14 | 🌐 C# | 📅 2026-09-08
 
       > iText 7 allows you to build custom PDF scenarios for web, mobile, desktop or cloud apps in .NET.
 
-      [![GitHub Stars](https://img.shields.io/github/stars/itext/itext7-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/itext/itext7-dotnet) ⭐ 1,942 | 🐛 14 | 🌐 C# | 📅 2026-09-03
+      [![GitHub Stars](https://img.shields.io/github/stars/itext/itext7-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/itext/itext7-dotnet) ⭐ 1,942 | 🐛 14 | 🌐 C# | 📅 2026-09-08
       [![NuGet Downloads](https://img.shields.io/nuget/dt/itext7?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/itext7)
 
 ### DateTime
@@ -714,20 +714,20 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 
 ### Validation
 
-* [**FluentValidation**](https://github.com/FluentValidation/FluentValidation) ⭐ 9,752 | 🐛 4 | 🌐 C# | 📅 2026-08-12
+* [**FluentValidation**](https://github.com/FluentValidation/FluentValidation) ⭐ 9,751 | 🐛 4 | 🌐 C# | 📅 2026-08-12
 
   > A popular .NET validation library for building strongly-typed validation rules.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/FluentValidation/FluentValidation?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/FluentValidation/FluentValidation) ⭐ 9,752 | 🐛 4 | 🌐 C# | 📅 2026-08-12
+  [![GitHub Stars](https://img.shields.io/github/stars/FluentValidation/FluentValidation?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/FluentValidation/FluentValidation) ⭐ 9,751 | 🐛 4 | 🌐 C# | 📅 2026-08-12
   [![NuGet Downloads](https://img.shields.io/nuget/dt/FluentValidation?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/FluentValidation)
 
 ### HtmlParser
 
-* [**AngleSharp**](https://github.com/AngleSharp/AngleSharp) ⭐ 5,530 | 🐛 6 | 🌐 C# | 📅 2026-09-05
+* [**AngleSharp**](https://github.com/AngleSharp/AngleSharp) ⭐ 5,531 | 🐛 8 | 🌐 C# | 📅 2026-09-05
 
   > The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/AngleSharp/AngleSharp?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/AngleSharp/AngleSharp) ⭐ 5,530 | 🐛 6 | 🌐 C# | 📅 2026-09-05
+  [![GitHub Stars](https://img.shields.io/github/stars/AngleSharp/AngleSharp?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/AngleSharp/AngleSharp) ⭐ 5,531 | 🐛 8 | 🌐 C# | 📅 2026-09-05
   [![NuGet Downloads](https://img.shields.io/nuget/dt/AngleSharp?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/AngleSharp)
 
 * [**HtmlAgilityPack**](https://github.com/zzzprojects/html-agility-pack) ⭐ 2,848 | 🐛 82 | 🌐 C# | 📅 2026-08-24
@@ -773,11 +773,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Microsoft.Extensions.Caching.Memory?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Microsoft.Extensions.Caching.Memory)
 
 * Distributed
-  * [**StackExchange.Redis**](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-06
+  * [**StackExchange.Redis**](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-08
 
     > High performance Redis client, incorporating both synchronous and asynchronous usage.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-06
+    [![GitHub Stars](https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/StackExchange/StackExchange.Redis) ⭐ 6,197 | 🐛 220 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/StackExchange.Redis?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/StackExchange.Redis)
 
   * [**ServiceStack.Redis**](https://github.com/ServiceStack/ServiceStack.Redis) ⚠️ Archived
@@ -788,12 +788,12 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/ServiceStack.Redis?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/ServiceStack.Redis)
 
 * Caching Frameworks
-  * [**FusionCache**](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,908 | 🐛 37 | 🌐 C# | 📅 2026-09-01
+  * [**FusionCache**](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,909 | 🐛 38 | 🌐 C# | 📅 2026-09-01
 
     > FusionCache is an easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/jodydonetti/ZiggyCreatures.FusionCache?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,908 | 🐛 37 | 🌐 C# | 📅 2026-09-01
-    [![NuGet Downloads](https://img.shields.io/nuget/dt/ZiggyCreatures.FusionCache?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,908 | 🐛 37 | 🌐 C# | 📅 2026-09-01
+    [![GitHub Stars](https://img.shields.io/github/stars/jodydonetti/ZiggyCreatures.FusionCache?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,909 | 🐛 38 | 🌐 C# | 📅 2026-09-01
+    [![NuGet Downloads](https://img.shields.io/nuget/dt/ZiggyCreatures.FusionCache?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) ⭐ 3,909 | 🐛 38 | 🌐 C# | 📅 2026-09-01
   * [**CacheManager.Core**](https://github.com/MichaCo/CacheManager) ⭐ 2,419 | 🐛 13 | 🌐 C# | 📅 2026-02-18
 
     > CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
@@ -812,18 +812,18 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 ### Testing
 
 * Test Frameworks
-  * [**xUnit**](https://github.com/xunit/xunit) ⭐ 4,601 | 🐛 20 | 🌐 C# | 📅 2026-09-01
+  * [**xUnit**](https://github.com/xunit/xunit) ⭐ 4,603 | 🐛 21 | 🌐 C# | 📅 2026-09-08
 
     > xUnit is a developer testing framework, built to support Test Driven Development, with a design goal of extreme simplicity and alignment with framework features.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/xunit/xunit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/xunit/xunit) ⭐ 4,601 | 🐛 20 | 🌐 C# | 📅 2026-09-01
+    [![GitHub Stars](https://img.shields.io/github/stars/xunit/xunit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/xunit/xunit) ⭐ 4,603 | 🐛 21 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/xunit?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/xunit)
 
-  * [**NUnit**](https://github.com/nunit/nunit) ⭐ 2,623 | 🐛 262 | 🌐 C# | 📅 2026-09-07
+  * [**NUnit**](https://github.com/nunit/nunit) ⭐ 2,623 | 🐛 262 | 🌐 C# | 📅 2026-09-09
 
     > NUnit is a unit-testing framework for all .NET languages.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/nunit/nunit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nunit/nunit) ⭐ 2,623 | 🐛 262 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/nunit/nunit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nunit/nunit) ⭐ 2,623 | 🐛 262 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NUnit?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NUnit)
 
   * [**MyTested.AspNetCore.Mvc**](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) ⭐ 1,712 | 🐛 172 | 🌐 C# | 📅 2025-03-04
@@ -834,11 +834,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MyTested.AspNetCore.Mvc?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MyTested.AspNetCore.Mvc/)
 
 * Asserations
-  * [**FluentAssertions**](https://github.com/fluentassertions/fluentassertions) ⭐ 3,813 | 🐛 66 | 🌐 C# | 📅 2026-09-07
+  * [**FluentAssertions**](https://github.com/fluentassertions/fluentassertions) ⭐ 3,814 | 🐛 65 | 🌐 C# | 📅 2026-09-08
 
     > A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/fluentassertions/fluentassertions?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/fluentassertions/fluentassertions) ⭐ 3,813 | 🐛 66 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/fluentassertions/fluentassertions?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/fluentassertions/fluentassertions) ⭐ 3,814 | 🐛 65 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/FluentAssertions?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/FluentAssertions)
 
 * Mocking
@@ -933,11 +933,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Serilog.Sinks.XUnit?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Serilog.Sinks.XUnit)
 
 * Snapshot Testing
-  * [**Verify**](https://github.com/VerifyTests/Verify) ⭐ 3,464 | 🐛 2 | 🌐 C# | 📅 2026-09-07
+  * [**Verify**](https://github.com/VerifyTests/Verify) ⭐ 3,465 | 🐛 2 | 🌐 C# | 📅 2026-09-08
 
     > Verify is a snapshot testing tool that simplifies the assertion of complex data models and documents.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/VerifyTests/Verify?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/VerifyTests/Verify) ⭐ 3,464 | 🐛 2 | 🌐 C# | 📅 2026-09-07
+    [![GitHub Stars](https://img.shields.io/github/stars/VerifyTests/Verify?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/VerifyTests/Verify) ⭐ 3,465 | 🐛 2 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Verify?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Verify)
 
   * [**Snapshooter**](https://github.com/SwissLife-OSS/snapshooter) ⭐ 334 | 🐛 67 | 🌐 C# | 📅 2026-02-24
@@ -962,11 +962,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/SpecFlow?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/SpecFlow)
 
 * UI Testing
-  * [**Selenium.WebDriver**](https://github.com/SeleniumHQ/selenium) ⭐ 34,482 | 🐛 195 | 🌐 Java | 📅 2026-09-08
+  * [**Selenium.WebDriver**](https://github.com/SeleniumHQ/selenium) ⭐ 34,482 | 🐛 189 | 🌐 Java | 📅 2026-09-09
 
     > Selenium is a set of different software tools each with a different approach to supporting browser automation. These tools are highly flexible, allowing many options for locating and manipulating elements within a browser, and one of its key features is the support for automating multiple browser platforms.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/SeleniumHQ/selenium) ⭐ 34,482 | 🐛 195 | 🌐 Java | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/SeleniumHQ/selenium) ⭐ 34,482 | 🐛 189 | 🌐 Java | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Selenium.WebDriver?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Selenium.WebDriver)
 
   * [**Puppeteer Sharp**](https://github.com/hardkoded/puppeteer-sharp) ⭐ 3,917 | 🐛 11 | 🌐 C# | 📅 2026-09-05
@@ -991,11 +991,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/ReportGenerator?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/ReportGenerator)
 
 * XUnit Extensions\Helpers
-  * [**xunit.analyzers**](https://github.com/xunit/xunit.analyzers) ⭐ 199 | 🐛 1 | 🌐 C# | 📅 2026-09-04
+  * [**xunit.analyzers**](https://github.com/xunit/xunit.analyzers) ⭐ 199 | 🐛 0 | 🌐 C# | 📅 2026-09-08
 
     > Code Analyzers for projects using xUnit.net that help find and fix frequent issues when writing tests.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/xunit/xunit.analyzers?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/xunit/xunit.analyzers) ⭐ 199 | 🐛 1 | 🌐 C# | 📅 2026-09-04
+    [![GitHub Stars](https://img.shields.io/github/stars/xunit/xunit.analyzers?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/xunit/xunit.analyzers) ⭐ 199 | 🐛 0 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/xunit.analyzers?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/xunit.analyzers)
 
   * [**xunit.categories**](https://github.com/brendanconnolly/Xunit.Categories) ⭐ 144 | 🐛 8 | 🌐 C# | 📅 2026-05-19
@@ -1007,43 +1007,43 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 
 ### OpenAPI
 
-* [**NSwag**](https://github.com/RicoSuter/NSwag) ⭐ 7,364 | 🐛 2,055 | 🌐 C# | 📅 2026-09-07
+* [**NSwag**](https://github.com/RicoSuter/NSwag) ⭐ 7,363 | 🐛 2,055 | 🌐 C# | 📅 2026-09-07
 
   > The OpenAPI/Swagger API toolchain for .NET and TypeScript.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/RicoSuter/NSwag?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/RicoSuter/NSwag) ⭐ 7,364 | 🐛 2,055 | 🌐 C# | 📅 2026-09-07
+  [![GitHub Stars](https://img.shields.io/github/stars/RicoSuter/NSwag?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/RicoSuter/NSwag) ⭐ 7,363 | 🐛 2,055 | 🌐 C# | 📅 2026-09-07
   [![NuGet Downloads](https://img.shields.io/nuget/dt/NSwag.AspNetCore?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NSwag.AspNetCore)
 
-* [**Swagger (Swashbuckle)**](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) ⭐ 5,499 | 🐛 176 | 🌐 C# | 📅 2026-09-02
+* [**Swagger (Swashbuckle)**](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) ⭐ 5,499 | 🐛 176 | 🌐 C# | 📅 2026-09-08
 
   > Swagger tooling for API's built with ASP.NET Core. Generate beautiful API documentation, including a UI to explore and test operations, directly from your routes, controllers and models.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/domaindrivendev/Swashbuckle.AspNetCore?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) ⭐ 5,499 | 🐛 176 | 🌐 C# | 📅 2026-09-02
+  [![GitHub Stars](https://img.shields.io/github/stars/domaindrivendev/Swashbuckle.AspNetCore?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) ⭐ 5,499 | 🐛 176 | 🌐 C# | 📅 2026-09-08
   [![NuGet Downloads](https://img.shields.io/nuget/dt/swashbuckle.aspnetcore?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/swashbuckle.aspnetcore)
 
 ### Logging
 
 * Logging libraries
-  * [**Serilog**](https://github.com/serilog/serilog) ⭐ 8,035 | 🐛 19 | 🌐 C# | 📅 2026-07-31
+  * [**Serilog**](https://github.com/serilog/serilog) ⭐ 8,036 | 🐛 19 | 🌐 C# | 📅 2026-07-31
 
     > Serilog is a diagnostic logging library for .NET applications. It is easy to set up, has a clean API, and runs on all recent .NET platforms.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/serilog/serilog?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/serilog/serilog) ⭐ 8,035 | 🐛 19 | 🌐 C# | 📅 2026-07-31
+    [![GitHub Stars](https://img.shields.io/github/stars/serilog/serilog?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/serilog/serilog) ⭐ 8,036 | 🐛 19 | 🌐 C# | 📅 2026-07-31
     [![NuGet Downloads](https://img.shields.io/nuget/dt/serilog?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/serilog)
 
-  * [**NLog**](https://github.com/NLog/NLog) ⭐ 6,545 | 🐛 50 | 🌐 C# | 📅 2026-09-06
+  * [**NLog**](https://github.com/NLog/NLog) ⭐ 6,545 | 🐛 51 | 🌐 C# | 📅 2026-09-08
 
     > NLog is a free logging platform for .NET with rich log routing and management capabilities. It makes it easy to produce and manage high-quality logs for your application regardless of its size or complexity.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/NLog/NLog?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/NLog/NLog) ⭐ 6,545 | 🐛 50 | 🌐 C# | 📅 2026-09-06
+    [![GitHub Stars](https://img.shields.io/github/stars/NLog/NLog?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/NLog/NLog) ⭐ 6,545 | 🐛 51 | 🌐 C# | 📅 2026-09-08
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NLog?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NLog)
 
 * Logging Management
-  * [**Sentry**](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 318 | 🌐 C# | 📅 2026-09-08
+  * [**Sentry**](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 314 | 🌐 C# | 📅 2026-09-09
 
     > Open-source error tracking that helps developers monitor and fix crashes in real time.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/getsentry/sentry-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 318 | 🌐 C# | 📅 2026-09-08
+    [![GitHub Stars](https://img.shields.io/github/stars/getsentry/sentry-dotnet?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/getsentry/sentry-dotnet) ⭐ 770 | 🐛 314 | 🌐 C# | 📅 2026-09-09
     [![NuGet Downloads](https://img.shields.io/nuget/dt/Sentry?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Sentry)
 
 ### Templating
@@ -1074,11 +1074,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 
 ### Console
 
-* [**Spectre.Console**](https://github.com/spectresystems/spectre.console) ⭐ 11,608 | 🐛 180 | 🌐 C# | 📅 2026-09-05
+* [**Spectre.Console**](https://github.com/spectresystems/spectre.console) ⭐ 11,609 | 🐛 180 | 🌐 C# | 📅 2026-09-09
 
   > A library that makes it easier to create beautiful, cross platform, console applications.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/spectresystems/spectre.console?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/spectresystems/spectre.console) ⭐ 11,608 | 🐛 180 | 🌐 C# | 📅 2026-09-05
+  [![GitHub Stars](https://img.shields.io/github/stars/spectresystems/spectre.console?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/spectresystems/spectre.console) ⭐ 11,609 | 🐛 180 | 🌐 C# | 📅 2026-09-09
   [![NuGet Downloads](https://img.shields.io/nuget/dt/spectre.console?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/spectre.console)
 
 ## Contribution
@@ -1099,4 +1099,4 @@ To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
