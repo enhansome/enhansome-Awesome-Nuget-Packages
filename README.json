@@ -65,8 +65,8 @@
                 "id": 459090159,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T04:38:01Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-03T04:53:18Z",
+                "open_issues": 75,
                 "owner": "riok",
                 "repo": "mapperly",
                 "stars": 4177,
@@ -557,7 +557,7 @@
                     "open_issues": 457,
                     "owner": "linq2db",
                     "repo": "linq2db",
-                    "stars": 3333,
+                    "stars": 3332,
                     "topics": [
                       "access",
                       "bulk-inserts",
@@ -1478,7 +1478,7 @@
                     "id": 1339922,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T03:59:36Z",
+                    "last_commit": "2026-10-03T08:26:53Z",
                     "open_issues": 35,
                     "owner": "ServiceStack",
                     "repo": "ServiceStack",
@@ -1541,10 +1541,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-03T03:42:26Z",
-                    "open_issues": 1352,
+                    "open_issues": 1353,
                     "owner": "grpc",
                     "repo": "grpc",
-                    "stars": 45359,
+                    "stars": 45361,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T14:33:08.130Z"
@@ -1595,7 +1595,7 @@
                     "id": 117102183,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T21:16:19Z",
+                    "last_commit": "2026-10-03T08:27:33Z",
                     "open_issues": 380,
                     "owner": "ChilliCream",
                     "repo": "graphql-platform",
@@ -3540,7 +3540,7 @@
                     "id": 223284876,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T18:26:51Z",
+                    "last_commit": "2026-10-03T07:26:06Z",
                     "open_issues": 0,
                     "owner": "VerifyTests",
                     "repo": "Verify",
@@ -3649,7 +3649,7 @@
                     "open_issues": 193,
                     "owner": "SeleniumHQ",
                     "repo": "selenium",
-                    "stars": 34517,
+                    "stars": 34518,
                     "topics": [
                       "dotnet",
                       "java",
@@ -4141,7 +4141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:51.156Z",
+    "last_updated": "2026-10-03T08:30:27.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "📦 A curated list of awesome and best Nuget packages sorted by most popular ones.",
