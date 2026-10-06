@@ -65,11 +65,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 
 ### IoC
 
-* [**Autofac**](https://github.com/autofac/Autofac) ⭐ 4,660 | 🐛 6 | 🌐 C# | 📅 2026-09-18
+* [**Autofac**](https://github.com/autofac/Autofac) ⭐ 4,659 | 🐛 6 | 🌐 C# | 📅 2026-09-18
 
   > Autofac is an IoC container for .NET. It manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.
 
-  [![GitHub Stars](https://img.shields.io/github/stars/autofac/Autofac?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/autofac/Autofac) ⭐ 4,660 | 🐛 6 | 🌐 C# | 📅 2026-09-18
+  [![GitHub Stars](https://img.shields.io/github/stars/autofac/Autofac?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/autofac/Autofac) ⭐ 4,659 | 🐛 6 | 🌐 C# | 📅 2026-09-18
   [![NuGet Downloads](https://img.shields.io/nuget/dt/Autofac?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/Autofac)
 
 ### Task Scheduler / Background Job
@@ -137,11 +137,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![GitHub Stars](https://img.shields.io/github/stars/mbdavid/litedb?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/mbdavid/litedb) ⭐ 9,481 | 🐛 189 | 🌐 C# | 📅 2026-10-03
     [![NuGet Downloads](https://img.shields.io/nuget/dt/LiteDB?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/LiteDB)
 
-  * [**RavenDB.Client**](https://github.com/ravendb/ravendb) ⭐ 4,002 | 🐛 74 | 🌐 C# | 📅 2026-10-06
+  * [**RavenDB.Client**](https://github.com/ravendb/ravendb) ⭐ 4,002 | 🐛 73 | 🌐 C# | 📅 2026-10-06
 
     > An ACID NoSQL Document Database.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/ravendb/ravendb?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ravendb/ravendb) ⭐ 4,002 | 🐛 74 | 🌐 C# | 📅 2026-10-06
+    [![GitHub Stars](https://img.shields.io/github/stars/ravendb/ravendb?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/ravendb/ravendb) ⭐ 4,002 | 🐛 73 | 🌐 C# | 📅 2026-10-06
     [![NuGet Downloads](https://img.shields.io/nuget/dt/RavenDB.Client?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/RavenDB.Client)
 
 * Database Connector
@@ -361,11 +361,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![GitHub Stars](https://img.shields.io/github/stars/jbogard/MediatR?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jbogard/MediatR) ⭐ 11,857 | 🐛 3 | 🌐 C# | 📅 2026-07-02
     [![NuGet Downloads](https://img.shields.io/nuget/dt/mediatr?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/mediatr)
 
-  * [**Brighter**](https://github.com/BrighterCommand/Brighter) ⭐ 2,482 | 🐛 102 | 🌐 C# | 📅 2026-10-05
+  * [**Brighter**](https://github.com/BrighterCommand/Brighter) ⭐ 2,482 | 🐛 103 | 🌐 C# | 📅 2026-10-05
 
     > The Command Dispatcher pattern is an addition to the Command design pattern that decouples the dispatcher for a service from its execution.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/BrighterCommand/Brighter?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/BrighterCommand/Brighter) ⭐ 2,482 | 🐛 102 | 🌐 C# | 📅 2026-10-05
+    [![GitHub Stars](https://img.shields.io/github/stars/BrighterCommand/Brighter?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/BrighterCommand/Brighter) ⭐ 2,482 | 🐛 103 | 🌐 C# | 📅 2026-10-05
     [![NuGet Downloads](https://img.shields.io/nuget/dt/paramore.brighter?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/paramore.brighter)
 
 * Message Bus
@@ -479,11 +479,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
 ### Mail and SMTP Server
 
 * Mail
-  * [**MailKit**](https://github.com/jstedfast/MailKit) ⭐ 6,857 | 🐛 6 | 🌐 C# | 📅 2026-10-05
+  * [**MailKit**](https://github.com/jstedfast/MailKit) ⭐ 6,857 | 🐛 7 | 🌐 C# | 📅 2026-10-05
 
     > MailKit is an Open Source cross-platform .NET mail-client library that is based on MimeKit and optimized for mobile devices.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/jstedfast/MailKit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jstedfast/MailKit) ⭐ 6,857 | 🐛 6 | 🌐 C# | 📅 2026-10-05
+    [![GitHub Stars](https://img.shields.io/github/stars/jstedfast/MailKit?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/jstedfast/MailKit) ⭐ 6,857 | 🐛 7 | 🌐 C# | 📅 2026-10-05
     [![NuGet Downloads](https://img.shields.io/nuget/dt/MailKit?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/MailKit)
 
 * Mail Service SDK
@@ -593,11 +593,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/CsvHelper?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/CsvHelper)
 
 * Excel
-  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 63 | 🌐 C# | 📅 2026-10-06
+  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 62 | 🌐 C# | 📅 2026-10-06
 
     > a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 63 | 🌐 C# | 📅 2026-10-06
+    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 62 | 🌐 C# | 📅 2026-10-06
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NPOI?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NPOI)
 
   * [**EPPlus**](https://github.com/EPPlusSoftware/EPPlus) ⭐ 2,040 | 🐛 102 | 🌐 C# | 📅 2026-10-06
@@ -608,11 +608,11 @@ If you liked this repository or find it useful, please give it a star. Thanks!
     [![NuGet Downloads](https://img.shields.io/nuget/dt/EPPlus?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/EPPlus)
 
 * Word
-  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 63 | 🌐 C# | 📅 2026-10-06
+  * [**NPOI**](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 62 | 🌐 C# | 📅 2026-10-06
 
     > a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.
 
-    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 63 | 🌐 C# | 📅 2026-10-06
+    [![GitHub Stars](https://img.shields.io/github/stars/nissl-lab/npoi?label=Stars\&logo=github\&cacheSeconds=3600)](https://github.com/nissl-lab/npoi) ⭐ 6,196 | 🐛 62 | 🌐 C# | 📅 2026-10-06
     [![NuGet Downloads](https://img.shields.io/nuget/dt/NPOI?label=Downloads\&logo=nuget\&cacheSeconds=3600)](https://www.nuget.org/packages/NPOI)
 
   * [**DocX**](https://github.com/xceedsoftware/DocX) ⭐ 1,921 | 🐛 315 | 🌐 C# | 📅 2026-06-11
